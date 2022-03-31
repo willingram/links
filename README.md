@@ -32,7 +32,8 @@ https://github.com/pmndrs/valtio
 
 ### estimation / story-pointing
 
-[read] https://www.youtube.com/watch?v=QVBlnCTu9Ms&t=2225s
+[read] #NoEstimates (Allen Holub):
+https://www.youtube.com/watch?v=QVBlnCTu9Ms
 
 [read] https://ronjeffries.com/articles/019-01ff/story-points/Index.html
 
