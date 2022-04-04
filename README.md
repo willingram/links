@@ -1,5 +1,30 @@
 # software development links
 
+## TypeScript
+
+Types vs. Interfaces:
+
+https://stackoverflow.com/questions/37233735/interfaces-vs-types-in-typescript/52682220#52682220
+
+https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#differences-between-type-aliases-and-interfaces
+
+The TypeScript team's internal coding guidelines:
+https://github.com/Microsoft/TypeScript/wiki/Coding-guidelines
+
+React (with TypeScript) cheat sheet:
+https://github.com/typescript-cheatsheets/react
+
+Free[ish] books:
+
+https://effectivetypescript.com/
+
+https://exploringjs.com/tackling-ts/
+
+https://basarat.gitbook.io/typescript/
+
+Matt Pocock tips thread:
+https://threadreaderapp.com/thread/1509964736275927042.html
+
 ## frontend frameworks
 
 https://svelte.dev/
