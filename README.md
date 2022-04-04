@@ -1,8 +1,6 @@
-# links
+# software development links
 
-## software development
-
-### frontend frameworks
+## frontend frameworks
 
 https://svelte.dev/
 
@@ -18,7 +16,7 @@ https://crank.js.org/
 
 https://github.com/rodinhart/metalui
 
-### react state management
+## react state management
 
 https://github.com/pmndrs/zustand
 
@@ -26,11 +24,11 @@ https://github.com/pmndrs/jotai
 
 https://github.com/pmndrs/valtio
 
-### culture
+## culture
 
 [read] https://jobs.netflix.com/culture
 
-### estimation / story-pointing
+## estimation / story-pointing
 
 [read] #NoEstimates (Allen Holub):
 https://www.youtube.com/watch?v=QVBlnCTu9Ms
@@ -41,18 +39,18 @@ https://www.youtube.com/watch?v=QVBlnCTu9Ms
 
 [list] https://ronjeffries.com/categories/estimation
 
-### backlog management / todo lists
+## backlog management / todo lists
 
 [unread] https://github.com/todotxt/todo.txt
 
 Todo+ Visual Studio Code Extension (not todo.txt format):
 https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus
 
-### uncategorised
+## uncategorised
 
 [unread] [list] https://iq.opengenus.org/rpc-vs-rest/#:~:text=1.-,Differences%20between%20RPC%20and%20REST,supports%20GET%20and%20POST%20requests.
 
-### documentation
+## documentation
 
 Stripe: long recognised as setting the bar for great API documentation:
 https://stripe.com/docs/api
