@@ -8,7 +8,11 @@ https://sourcefoundry.org/hack/
 
 https://monolisa.dev
 
+Using this currently:
 https://github.com/tonsky/FiraCode
+
+IBM Plex Mono (using this on Windows):
+https://github.com/IBM/plex
 
 ## TypeScript
 
