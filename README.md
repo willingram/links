@@ -1,5 +1,15 @@
 # software development links
 
+## coding fonts
+
+https://larsenwork.com/monoid/
+
+https://sourcefoundry.org/hack/
+
+https://monolisa.dev
+
+https://github.com/tonsky/FiraCode
+
 ## TypeScript
 
 Types vs. Interfaces:
