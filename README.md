@@ -45,7 +45,9 @@ https://github.com/gvergnaud/ts-pattern
 "Good" tricks:
 https://www.placemark.io/post/good-magic-with-typescript
 
-## Frontend Frameworks
+## Frontend
+
+### Frameworks
 
 https://svelte.dev/
 
@@ -65,10 +67,51 @@ https://million.dev/docs
 
 https://astro.build/
 
+### ORMs
+
+Drizzle:
+https://github.com/drizzle-team/drizzle-orm
+
+Prisma:
+
+### React
+
+Negative thoughts on direction of React:
+[unread] https://marmelab.com/blog/2023/06/05/react-angularjs-moment.html
+
+### Misc
+
+Enzo type-checking library:
+[unread] https://kaleidawave.github.io/posts/introducing-ezno/
+
+### Multiplayer / CRDT / Live Collab
+
+Open-source framework:
+https://partykit.io/
+
+## Backend
+
+### DB Migrations
+
+Schema migrations in PlanetScale:
+https://planetscale.com/docs/devops/declarative-schema-migrations
+
+Prisma migration mental model:
+https://www.prisma.io/docs/concepts/components/prisma-migrate/mental-model
+
+Prisma / PlanetScale migration integration:
+https://planetscale.com/docs/prisma/automatic-prisma-migrations
+
 ## Programming Languages
 
 Anders Hejlsberg and Guido van Rossum:
 [unread] https://www.youtube.com/watch?v=sBVYn0cIlWM
+
+Arguments against decorators:
+https://www.reddit.com/r/typescript/comments/w772vv/is_anyone_against_using_decorators/
+
+Technical dimensions of programming systems:
+https://tomasp.net/techdims/
 
 ## React State Management
 
@@ -103,6 +146,12 @@ https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-
 ## Uncategorised
 
 [unread] [list] https://iq.opengenus.org/rpc-vs-rest/#:~:text=1.-,Differences%20between%20RPC%20and%20REST,supports%20GET%20and%20POST%20requests.
+
+Various interesting-looking blogposts:
+[unread] [list] https://laughingmeme.org/
+
+Someone working on interesting CRDT applications:
+https://twitter.com/JungleSilicon
 
 ## Example of "Good" Documentation
 
