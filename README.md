@@ -36,6 +36,12 @@ Free[ish] books:
 Matt Pocock tips thread:
 https://threadreaderapp.com/thread/1509964736275927042.html
 
+shoehorn (relax typings for tests):
+https://github.com/total-typescript/shoehorn
+
+Pattern matching:
+https://github.com/gvergnaud/ts-pattern
+
 ## frontend frameworks
 
 https://svelte.dev/
@@ -51,6 +57,13 @@ https://www.solidjs.com/
 https://crank.js.org/
 
 https://github.com/rodinhart/metalui
+
+https://million.dev/docs
+
+## programming languages
+
+Anders Hejlsberg and Guido van Rossum:
+[unread] https://www.youtube.com/watch?v=sBVYn0cIlWM
 
 ## react state management
 
