@@ -67,6 +67,7 @@ https://bun.sh/
 
 TypeScript-first web framework:
 https://elysiajs.com/
+https://elysiajs.com/blog/with-prisma.html
 
 ## Frontend
 
@@ -155,8 +156,8 @@ https://observablehq.com/
 Enzo type-checking library:
 [unread] https://kaleidawave.github.io/posts/introducing-ezno/
 
-Zustand URL middleware (move state in and out of url query param):
-https://gist.github.com/tannerlinsley/0ffe9dbf87a6e1dcb88e529a1941c7e5
+Choose "boring" technology:
+https://boringtechnology.club/
 
 ### Multiplayer / CRDT / Live Collab
 
@@ -164,6 +165,19 @@ Open-source framework:
 https://partykit.io/
 
 ## Backend
+
+### Architecture
+
+Figma DB scaling:
+[unread] https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/
+
+### Data Versioning
+
+"Git for data":
+https://www.dolthub.com/
+
+"Git for data-science":
+https://dvc.org/
 
 ### DB Migrations
 
@@ -200,6 +214,9 @@ XState and related:
 - https://stately.ai/
 - https://xstate.js.org/
 
+Zustand URL middleware (move state in and out of url query param):
+https://gist.github.com/tannerlinsley/0ffe9dbf87a6e1dcb88e529a1941c7e5
+
 ## Culture
 
 [read] https://jobs.netflix.com/culture
@@ -223,6 +240,8 @@ Todo+ Visual Studio Code Extension (not todo.txt format):
 https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus
 
 ## Good Developer Blogs
+
+https://echoesofsomewhere.com/category/devblog/
 
 https://www.nexxel.dev/
 
