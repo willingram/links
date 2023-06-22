@@ -45,6 +45,14 @@ https://github.com/gvergnaud/ts-pattern
 "Good" tricks:
 https://www.placemark.io/post/good-magic-with-typescript
 
+## Bun
+
+Bun:
+https://bun.sh/
+
+TypeScript-first web framework:
+https://elysiajs.com/
+
 ## Frontend
 
 ### Frameworks
@@ -74,15 +82,32 @@ https://github.com/drizzle-team/drizzle-orm
 
 Prisma:
 
+### UI
+
+Architecting design sysems:
+[unread] https://blog.almaer.com/building-a-modern-design-system-in-layers/
+
 ### React
 
 Negative thoughts on direction of React:
 [unread] https://marmelab.com/blog/2023/06/05/react-angularjs-moment.html
 
+#### RSC
+
+https://twitter.com/eli_white/status/1657729306749988864
+
+### CSS
+
+Chrome CSS 2023 updates:
+[unread] https://developer.chrome.com/blog/whats-new-css-ui-2023/
+
 ### Misc
 
 Enzo type-checking library:
 [unread] https://kaleidawave.github.io/posts/introducing-ezno/
+
+Zustand URL middleware (move state in and out of url query param):
+https://gist.github.com/tannerlinsley/0ffe9dbf87a6e1dcb88e529a1941c7e5
 
 ### Multiplayer / CRDT / Live Collab
 
@@ -153,6 +178,12 @@ Various interesting-looking blogposts:
 Someone working on interesting CRDT applications:
 https://twitter.com/JungleSilicon
 
+DataDog outage analysis:
+[unread] https://newsletter.pragmaticengineer.com/p/inside-the-datadog-outage
+
+UploadThing from Ping.gg:
+https://github.com/pingdotgg/uploadthing
+
 ## Example of "Good" Documentation
 
 Stripe: long recognised as setting the bar for great API documentation:
@@ -184,3 +215,7 @@ https://nordicapis.com/7-items-no-api-documentation-can-live-without/
 
 Non-api docs:
 https://docs.planetscale.com/
+
+## Not Code
+
+https://worksinprogress.co/issue/why-britain-doesnt-build
