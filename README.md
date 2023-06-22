@@ -60,6 +60,9 @@ https://github.com/gvergnaud/ts-pattern
 "Good" tricks:
 https://www.placemark.io/post/good-magic-with-typescript
 
+React cheatsheet:
+https://react-typescript-cheatsheet.netlify.app/
+
 ## Bun
 
 Bun:
