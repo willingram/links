@@ -17,6 +17,11 @@ https://github.com/IBM/plex
 From the Berkeley Graphics site listed in the "uncategorised" section:
 https://berkeleygraphics.com/typefaces/berkeley-mono/
 
+## DevTools
+
+Faster (?) cross-platform nvm:
+https://github.com/Schniz/fnm
+
 ## TypeScript
 
 Types vs. Interfaces:
@@ -58,6 +63,11 @@ https://elysiajs.com/
 
 ## Frontend
 
+### Performance
+
+Chrome project to work w/ React frameworks to improve performance / UX:
+https://developer.chrome.com/blog/aurora-update-2023/
+
 ### Frameworks
 
 https://svelte.dev/
@@ -85,10 +95,13 @@ https://github.com/drizzle-team/drizzle-orm
 
 Prisma:
 
-### UI
+### UI and Design
 
 Architecting design sysems:
 [unread] https://blog.almaer.com/building-a-modern-design-system-in-layers/
+
+Difficult to describe, a personal website/project, espousing some kind of "design philosophy":
+https://berkeleygraphics.com/
 
 ### React
 
@@ -106,6 +119,29 @@ Discussion on React server components with Ryan Carniato, Tanner Linsley, & Ben 
 
 Chrome CSS 2023 updates:
 [unread] https://developer.chrome.com/blog/whats-new-css-ui-2023/
+
+CSS-in-JS library with compile-time optimizations:
+https://panda-css.com/
+
+Panda CSS references these projects:
+Chakra UI - where it all started
+Vanilla Extract - for inspiring the utilities API
+Stitches - for inspiring the recipes and variants API
+Tailwind CSS - for inspiring the JIT compiler and strategy
+Class Variance Authority - for inspiring the cva name
+Styled System - for the initial idea of Styled Props
+Linaria - for inspiring the initial atomic css strategy
+Uno CSS - for inspiring the studio and astro integration
+
+This blogpost has lots of good information about Chakra and Panda:
+https://www.adebayosegun.com/blog/the-future-of-chakra-ui
+
+Determine good line heights:
+https://www.thegoodlineheight.com/
+
+### Viz
+
+https://observablehq.com/
 
 ### Misc
 
@@ -144,13 +180,18 @@ https://www.reddit.com/r/typescript/comments/w772vv/is_anyone_against_using_deco
 Technical dimensions of programming systems:
 https://tomasp.net/techdims/
 
-## React State Management
+## State Management
 
-pmndrs:
+pmndrs collective projects:
 
 - https://github.com/pmndrs/zustand
 - https://github.com/pmndrs/jotai
 - https://github.com/pmndrs/valtio
+
+XState and related:
+
+- https://stately.ai/
+- https://xstate.js.org/
 
 ## Culture
 
@@ -174,12 +215,15 @@ https://www.youtube.com/watch?v=QVBlnCTu9Ms
 Todo+ Visual Studio Code Extension (not todo.txt format):
 https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus
 
+## Good Developer Blogs
+
+https://www.nexxel.dev/
+
+https://laughingmeme.org/
+
 ## Uncategorised
 
 [unread] [list] https://iq.opengenus.org/rpc-vs-rest/#:~:text=1.-,Differences%20between%20RPC%20and%20REST,supports%20GET%20and%20POST%20requests.
-
-Various interesting-looking blogposts:
-[unread] [list] https://laughingmeme.org/
 
 Someone working on interesting CRDT applications:
 https://twitter.com/JungleSilicon
@@ -190,8 +234,16 @@ DataDog outage analysis:
 UploadThing from Ping.gg:
 https://github.com/pingdotgg/uploadthing
 
-Difficult to describe, a personal website/project, espousing some kind of "design philosophy":
-https://berkeleygraphics.com/
+Jobs on marketing:
+[unread] https://twitter.com/LinusEkenstam/status/1662105536165183489
+
+Nice Cuphead-style animations:
+
+- https://twitter.com/TonyBabel
+- https://superrare.com/tonybabel
+
+Very weird but probably very clever "visual coding" system/ui:
+https://github.com/samuelmtimbo/unit
 
 ## Example of "Good" Documentation
 
@@ -228,3 +280,4 @@ https://docs.planetscale.com/
 ## Not Code
 
 https://worksinprogress.co/issue/why-britain-doesnt-build
+https://ukpersonal.finance/index-funds/
