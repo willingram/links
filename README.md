@@ -114,6 +114,9 @@ Architecting design sysems:
 Difficult to describe, a personal website/project, espousing some kind of "design philosophy":
 https://berkeleygraphics.com/
 
+Figma Dev:
+https://www.figma.com/blog/introducing-dev-mode/
+
 ### React
 
 Negative thoughts on direction of React:
