@@ -96,6 +96,9 @@ Negative thoughts on direction of React:
 
 https://twitter.com/eli_white/status/1657729306749988864
 
+Discussion on React server components with Ryan Carniato, Tanner Linsley, & Ben Holmes:
+[unread] https://www.youtube.com/watch?v=QRVtu9_xi2k
+
 ### CSS
 
 Chrome CSS 2023 updates:
