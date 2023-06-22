@@ -17,10 +17,13 @@ https://github.com/IBM/plex
 From the Berkeley Graphics site listed in the "uncategorised" section:
 https://berkeleygraphics.com/typefaces/berkeley-mono/
 
-## DevTools
+## Tools
 
 Faster (?) cross-platform nvm:
 https://github.com/Schniz/fnm
+
+New browser:
+https://arc.net/
 
 ## TypeScript
 
