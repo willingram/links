@@ -11,8 +11,11 @@ https://monolisa.dev
 Using this currently:
 https://github.com/tonsky/FiraCode
 
-IBM Plex Mono (using this on Windows):
+IBM Plex Mono (used this on Windows):
 https://github.com/IBM/plex
+
+From the Berkeley Graphics site listed in the "uncategorised" section:
+https://berkeleygraphics.com/typefaces/berkeley-mono/
 
 ## TypeScript
 
@@ -186,6 +189,9 @@ DataDog outage analysis:
 
 UploadThing from Ping.gg:
 https://github.com/pingdotgg/uploadthing
+
+Difficult to describe, a personal website/project, espousing some kind of "design philosophy":
+https://berkeleygraphics.com/
 
 ## Example of "Good" Documentation
 
