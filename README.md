@@ -17,6 +17,10 @@ https://github.com/IBM/plex
 From the Berkeley Graphics site listed in the "uncategorised" section:
 https://berkeleygraphics.com/typefaces/berkeley-mono/
 
+## AI
+
+https://github.com/AntonOsika/gpt-engineer
+
 ## Tools
 
 Faster (?) cross-platform nvm:
