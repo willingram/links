@@ -63,6 +63,9 @@ https://www.placemark.io/post/good-magic-with-typescript
 React cheatsheet:
 https://react-typescript-cheatsheet.netlify.app/
 
+Are The Types Wrong CLI (check that package exports are correct):
+https://github.com/arethetypeswrong/arethetypeswrong.github.io/tree/main/packages/cli
+
 ## Bun
 
 Bun:
