@@ -108,17 +108,7 @@ Drizzle:
 https://github.com/drizzle-team/drizzle-orm
 
 Prisma:
-
-### UI and Design
-
-Architecting design sysems:
-[unread] https://blog.almaer.com/building-a-modern-design-system-in-layers/
-
-Difficult to describe, a personal website/project, espousing some kind of "design philosophy":
-https://berkeleygraphics.com/
-
-Figma Dev:
-https://www.figma.com/blog/introducing-dev-mode/
+https://www.prisma.io/
 
 ### React
 
@@ -132,7 +122,10 @@ https://twitter.com/eli_white/status/1657729306749988864
 Discussion on React server components with Ryan Carniato, Tanner Linsley, & Ben Holmes:
 [unread] https://www.youtube.com/watch?v=QRVtu9_xi2k
 
-### CSS
+### UI, Design, and CSS
+
+The excellent shadcn:
+https://ui.shadcn.com
 
 Chrome CSS 2023 updates:
 [unread] https://developer.chrome.com/blog/whats-new-css-ui-2023/
@@ -155,6 +148,15 @@ https://www.adebayosegun.com/blog/the-future-of-chakra-ui
 
 Determine good line heights:
 https://www.thegoodlineheight.com/
+
+Architecting design sysems:
+[unread] https://blog.almaer.com/building-a-modern-design-system-in-layers/
+
+Difficult to describe, a personal website/project, espousing some kind of "design philosophy":
+https://berkeleygraphics.com/
+
+Figma Dev:
+https://www.figma.com/blog/introducing-dev-mode/
 
 ### Viz
 
