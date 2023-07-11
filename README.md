@@ -17,6 +17,8 @@ https://github.com/IBM/plex
 From the Berkeley Graphics site listed in the "uncategorised" section:
 https://berkeleygraphics.com/typefaces/berkeley-mono/
 
+https://github.com/subframe7536/maple-font
+
 ## AI
 
 https://github.com/AntonOsika/gpt-engineer
