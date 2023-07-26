@@ -59,6 +59,9 @@ https://github.com/total-typescript/shoehorn
 Pattern matching:
 https://github.com/gvergnaud/ts-pattern
 
+Sindre Sorhus lib, similar to the Matt Pocock library (which I need to add):
+https://github.com/sindresorhus/type-fest/tree/main
+
 "Good" tricks:
 https://www.placemark.io/post/good-magic-with-typescript
 
