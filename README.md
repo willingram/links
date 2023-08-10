@@ -1,5 +1,10 @@
 # Software Development Links
 
+## Code Conventions
+
+Naming conventions:
+https://www.swyx.io/how-to-name-things
+
 ## Coding Fonts
 
 https://larsenwork.com/monoid/
@@ -262,6 +267,8 @@ https://echoesofsomewhere.com/category/devblog/
 https://www.nexxel.dev/
 
 https://laughingmeme.org/
+
+https://www.swyx.io/
 
 ## Uncategorised
 
