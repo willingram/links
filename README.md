@@ -28,6 +28,10 @@ https://github.com/subframe7536/maple-font
 
 https://github.com/AntonOsika/gpt-engineer
 
+LLM tutorial:
+https://jaykmody.com/blog/gpt-from-scratch/
+https://news.ycombinator.com/item?id=34726115
+
 ## Tools
 
 Faster (?) cross-platform nvm:
@@ -81,9 +85,16 @@ https://github.com/arethetypeswrong/arethetypeswrong.github.io/tree/main/package
 Bun:
 https://bun.sh/
 
+V1 launch:
+https://bun.sh/blog/bun-v1.0
+
 TypeScript-first web framework:
 https://elysiajs.com/
 https://elysiajs.com/blog/with-prisma.html
+
+## Biome (previously Rome)
+
+https://biomejs.dev/blog/annoucing-biome
 
 ## Frontend
 
@@ -221,6 +232,9 @@ https://www.reddit.com/r/typescript/comments/w772vv/is_anyone_against_using_deco
 
 Technical dimensions of programming systems:
 https://tomasp.net/techdims/
+
+Zig (what Bun is written in) tutorial:
+https://www.openmymind.net/learning_zig/
 
 ## State Management
 
