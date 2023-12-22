@@ -196,6 +196,9 @@ https://boringtechnology.club/
 Open-source framework:
 https://partykit.io/
 
+CRDT resources:
+https://crdt.tech/resources
+
 ## Backend
 
 ### Architecture
