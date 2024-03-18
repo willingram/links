@@ -297,9 +297,11 @@ Git for data:
 Git for data-science:
 <https://dvc.org/>
 
-### Database General Articles
+### Database General
 
 Astro's offering: <https://astro.build/db/>
+
+Kysely typesafe SQL-query builder (not an ORM): <https://kysely.dev/>
 
 ### DB Migrations
 
