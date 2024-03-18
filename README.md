@@ -270,6 +270,12 @@ Prisma migration mental model:
 Prisma / PlanetScale migration integration:
 <https://planetscale.com/docs/prisma/automatic-prisma-migrations>
 
+## Hosting
+
+Good guide to hosting options: <https://getdeploying.com/>
+
+SST: <https://sst.dev/>
+
 ## Programming Languages
 
 Anders Hejlsberg and Guido van Rossum:
@@ -306,6 +312,10 @@ Artem Zakharchenko (msw.js) articles:
 
 - <https://www.epicweb.dev/the-true-purpose-of-testing>
 - <https://www.epicweb.dev/the-golden-rule-of-assertions>
+
+Kent Dodds articles on testing (i.e. React Testing Framework):
+
+- <https://kentcdodds.com/blog/common-mistakes-with-react-testing-library>
 
 ## Culture
 
