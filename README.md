@@ -96,7 +96,7 @@ https://elysiajs.com/blog/with-prisma.html
 
 ## "Next-gen" native-code tooling
 
-OXC project: 
+OXC project:
 
 - https://github.com/oxc-project/oxc
 
@@ -112,7 +112,7 @@ Rspack:
 
 - https://www.rspack.dev/
 
-Turbo: 
+Turbo:
 
 - https://turbo.build/pack
 
@@ -299,7 +299,6 @@ Artem Zakharchenko (msw.js) articles:
 ## Culture
 
 [read] https://jobs.netflix.com/culture
-
 
 ## Estimation and Story Pointing
 
