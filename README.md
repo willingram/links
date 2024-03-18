@@ -92,9 +92,27 @@ TypeScript-first web framework:
 https://elysiajs.com/
 https://elysiajs.com/blog/with-prisma.html
 
-## Biome (previously Rome)
+## "Next-gen" native-code tooling
 
-https://biomejs.dev/blog/annoucing-biome
+OXC project: 
+
+- https://github.com/oxc-project/oxc
+
+Biome (nee Rome):
+
+- https://biomejs.dev/
+
+Ruff (Python tooling):
+
+- https://biomejs.dev/
+
+Rspack:
+
+- https://www.rspack.dev/
+
+Turbo: 
+
+- https://turbo.build/pack
 
 ## Frontend
 
