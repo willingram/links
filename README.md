@@ -255,6 +255,13 @@ XState and related:
 Zustand URL middleware (move state in and out of url query param):
 https://gist.github.com/tannerlinsley/0ffe9dbf87a6e1dcb88e529a1941c7e5
 
+## Testing
+
+Artem Zakharchenko (msw.js) articles:
+
+- https://www.epicweb.dev/the-true-purpose-of-testing
+- https://www.epicweb.dev/the-golden-rule-of-assertions
+
 ## Culture
 
 [read] https://jobs.netflix.com/culture
