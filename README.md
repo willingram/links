@@ -13,7 +13,6 @@ https://sourcefoundry.org/hack/
 
 https://monolisa.dev
 
-Using this currently:
 https://github.com/tonsky/FiraCode
 
 IBM Plex Mono (used this on Windows):
@@ -23,6 +22,9 @@ From the Berkeley Graphics site listed in the "uncategorised" section:
 https://berkeleygraphics.com/typefaces/berkeley-mono/
 
 https://github.com/subframe7536/maple-font
+
+2024 - switched to Monaspace:
+https://github.com/githubnext/monaspace
 
 ## AI
 
@@ -194,6 +196,24 @@ Architecting design sysems:
 Difficult to describe, a personal website/project, espousing some kind of "design philosophy":
 https://berkeleygraphics.com/
 
+Extract:
+
+```text
+Emergent over prescribed aesthetics.
+Expose state and inner workings.
+Dense, not sparse.
+Explicit is better than implicit.
+Regiment functionalism.
+Performance is design.
+Verbosity over opaqueness.
+Ignore design trends. Timeless and unfashionable.
+Flat, not hierarchical.
+Diametrically opposite of minimalism. As complex as it needs to be.
+Driven by specifications and datasheets.
+Beauty emerges automatically without deliberation.
+Do not infantilize users.
+```
+
 Figma Dev:
 https://www.figma.com/blog/introducing-dev-mode/
 
@@ -283,6 +303,7 @@ Artem Zakharchenko (msw.js) articles:
 ## Culture
 
 [read] https://jobs.netflix.com/culture
+
 
 ## Estimation and Story Pointing
 
