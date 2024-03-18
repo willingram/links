@@ -161,6 +161,17 @@ Discussion on React server components with Ryan Carniato, Tanner Linsley, & Ben 
 
 ### UI, Design, and CSS
 
+Font stacks ("The fastest fonts available. No downloading, no layout shifts, no flashes — just instant renders."):
+ 
+ - <https://github.com/system-fonts/modern-font-stacks>
+ - <https://modernfontstacks.com/>
+
+Next-gen "drag-and-drop":
+ 
+ - <https://github.com/atlassian/pragmatic-drag-and-drop>
+ - Older video: <https://www.youtube.com/watch?v=5SQkOyzZLHM>
+ - Newer video: <https://www.youtube.com/watch?v=79kZdABVtCg>
+
 The excellent shadcn:
 <https://ui.shadcn.com>
 
