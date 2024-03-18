@@ -92,6 +92,11 @@ Are The Types Wrong CLI (check that package exports are correct):
 "Effect is a powerful TypeScript library designed to help developers easily create complex, synchronous, and asynchronous programs.":
 <https://effect.website/>
 
+"TSDoc is a proposal to standardize the doc comments used in TypeScript code, so that different tools can extract content without getting confused by each other's markup.":
+
+- <https://tsdoc.org/>
+- <https://www.npmjs.com/package/@microsoft/tsdoc>
+
 ## Bun
 
 Bun:
@@ -150,8 +155,10 @@ Mix of frameworks (some full stack, some not), stacks, starters, and tooling:
 - <https://crank.js.org/>
 - <https://github.com/rodinhart/metalui>
 - Astro full-stack: <https://astro.build/>
+- Astro-native SSG (docs-focused): <https://starlight.astro.build/>
 - Vite: <https://vitejs.dev/>
 - "Vite-native" testing (alternative to Jest): <https://vitest.dev/>
+- Vite-and-Vue-native SSG: <https://vitepress.dev/>
 - Waku, a "lightweight" RSC framework: <https://waku.gg/>
 - Tanner Linsley's SPA-focused stack: <https://tanstack.com/>
 - Kent Dodd's "epic stack": <https://www.epicweb.dev/epic-stack>
@@ -166,12 +173,25 @@ Prisma:
 
 ### React
 
+Future of React (Feb 2024): <https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024>
+
+Andrew Clark (summary of above):
+
+```text
+By the end of 2024, you’ll likely never need these APIs again:
+
+• useMemo, useCallback, memo → React Compiler
+• forwardRef → ref is a prop
+• React.lazy → RSC, promise-as-child
+• useContext → use(Context)
+• throw promise → use(promise)
+• <Context.Provider> → <Context>
+```
+
 Negative thoughts on direction of React:
 [unread] <https://marmelab.com/blog/2023/06/05/react-angularjs-moment.html>
 
-### RSC
-
-<https://twitter.com/eli_white/status/1657729306749988864>
+RSC: <https://twitter.com/eli_white/status/1657729306749988864>
 
 Discussion on React server components with Ryan Carniato, Tanner Linsley, & Ben Holmes:
 [unread] <https://www.youtube.com/watch?v=QRVtu9_xi2k>
@@ -320,6 +340,16 @@ pmndrs collective projects:
 - <https://github.com/pmndrs/jotai>
 - <https://github.com/pmndrs/valtio>
 
+Update from `@dai_shi` on the future (considering big changes to React internals) of the above libraries:
+
+```text
+So, my current prediction (don't take it seriously yet as we don't know) are:
+- react-tracked will be deprecated
+- zustand won't be used as much, neither will use-context-selector
+- jotai will still play its role
+- valtio will be less attractive, but we'll try our best
+```
+
 XState and related:
 
 - <https://stately.ai/>
@@ -369,7 +399,11 @@ Todo+ Visual Studio Code Extension (not todo.txt format):
 
 <https://laughingmeme.org/>
 
-<https://www.swyx.io/>
+Shawn Wang: <https://www.swyx.io/>
+
+Dan Abramov: <https://overreacted.io/>
+
+A list of links not unlike this one (should maybe be in a different category): <https://github.com/charlax/professional-programming>
 
 ## Uncategorized
 
