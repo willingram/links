@@ -34,15 +34,22 @@ LLM tutorial:
 <https://jaykmody.com/blog/gpt-from-scratch/>
 <https://news.ycombinator.com/item?id=34726115>
 
-## Tools
+## Tools (TODO: Some might fit better in frontend/backend specific categories)
 
-Faster (?) cross-platform nvm:
-<https://github.com/Schniz/fnm>
+Faster (?) cross-platform nvm: <https://github.com/Schniz/fnm>
 
-New browser:
-<https://arc.net/>
+New browser: <https://arc.net/>
 
-## TypeScript
+Open-source Postman alternative: <https://www.usebruno.com/>
+
+## JavaScript Ecosystem
+
+New package registry from Ryan Dahl + Deno team:
+
+- <https://jsr.io/docs/introduction>
+- <https://deno.com/blog/jsr_open_beta>
+
+## TypeScript Ecosystem
 
 Types vs. Interfaces:
 
@@ -81,6 +88,9 @@ React cheatsheet:
 
 Are The Types Wrong CLI (check that package exports are correct):
 <https://github.com/arethetypeswrong/arethetypeswrong.github.io/tree/main/packages/cli>
+
+"Effect is a powerful TypeScript library designed to help developers easily create complex, synchronous, and asynchronous programs.":
+<https://effect.website/>
 
 ## Bun
 
@@ -123,9 +133,14 @@ Turbo:
 Chrome project to work w/ React frameworks to improve performance / UX:
 <https://developer.chrome.com/blog/aurora-update-2023/>
 
+Millionjs project:
+
+- The linter (VS Code plugin): <https://million.dev/blog/lint>
+- The tool itself: <https://million.dev/docs>
+
 ### Frameworks
 
-Mix of frameworks (some full stack, some not), and tooling:
+Mix of frameworks (some full stack, some not), stacks, starters, and tooling:
 
 - <https://svelte.dev/>
 - <https://ultrajs.dev/>
@@ -134,10 +149,12 @@ Mix of frameworks (some full stack, some not), and tooling:
 - <https://www.solidjs.com/>
 - <https://crank.js.org/>
 - <https://github.com/rodinhart/metalui>
-- <https://million.dev/docs>
-- <https://astro.build/>
-- <https://vitejs.dev/>
-- <https://vitest.dev/>
+- Astro full-stack: <https://astro.build/>
+- Vite: <https://vitejs.dev/>
+- "Vite-native" testing (alternative to Jest): <https://vitest.dev/>
+- Waku, a "lightweight" RSC framework: <https://waku.gg/>
+- Tanner Linsley's SPA-focused stack: <https://tanstack.com/>
+- Kent Dodd's "epic stack": <https://www.epicweb.dev/epic-stack>
 
 ### ORMs
 
@@ -152,7 +169,7 @@ Prisma:
 Negative thoughts on direction of React:
 [unread] <https://marmelab.com/blog/2023/06/05/react-angularjs-moment.html>
 
-#### RSC
+### RSC
 
 <https://twitter.com/eli_white/status/1657729306749988864>
 
@@ -221,14 +238,15 @@ Beauty emerges automatically without deliberation.
 Do not infantilize users.
 ```
 
-Figma Dev:
-<https://www.figma.com/blog/introducing-dev-mode/>
+Figma Dev: <https://www.figma.com/blog/introducing-dev-mode/>
+
+Cool illustrated guide to DOM events: <Lhttps://domevents.dev/>
 
 ### Viz
 
 <https://observablehq.com/>
 
-### Misc
+### Misc (TODO: Categorize)
 
 Enzo type-checking library:
 [unread] <https://kaleidawave.github.io/posts/introducing-ezno/>
@@ -258,6 +276,10 @@ Git for data:
 
 Git for data-science:
 <https://dvc.org/>
+
+### Database General Articles
+
+Astro's offering: <https://astro.build/db/>
 
 ### DB Migrations
 
