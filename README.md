@@ -125,23 +125,18 @@ https://developer.chrome.com/blog/aurora-update-2023/
 
 ### Frameworks
 
-https://svelte.dev/
+Mix of frameworks (some full stack, some not), and tooling:
 
-https://ultrajs.dev/
-
-https://remix.run/
-
-https://blitzjs.com/
-
-https://www.solidjs.com/
-
-https://crank.js.org/
-
-https://github.com/rodinhart/metalui
-
-https://million.dev/docs
-
-https://astro.build/
+-https://svelte.dev/
+-https://ultrajs.dev/
+-https://remix.run/
+-https://blitzjs.com/
+-https://www.solidjs.com/
+-https://crank.js.org/
+-https://github.com/rodinhart/metalui
+-https://million.dev/docs
+-https://astro.build/
+-https://vitejs.dev/
 
 ### ORMs
 
