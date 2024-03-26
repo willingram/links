@@ -262,6 +262,8 @@ Figma Dev: <https://www.figma.com/blog/introducing-dev-mode/>
 
 Cool illustrated guide to DOM events: <Lhttps://domevents.dev/>
 
+"Small laboratory of fine UI": <https://www.uilabs.dev/>
+
 ### Viz
 
 <https://observablehq.com/>
