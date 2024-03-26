@@ -375,7 +375,9 @@ Kent Dodds articles on testing (i.e. React Testing Framework):
 
 ## Culture
 
-[read] <https://jobs.netflix.com/culture>
+Netflix culture (may have been different when it was first published!): <https://jobs.netflix.com/culture>
+
+"Stevey's Google Platforms Rant" (includes the "Bezos memo"): <https://gist.github.com/chitchcock/1281611>
 
 ## Estimation and Story Pointing
 
@@ -430,8 +432,7 @@ Nice Cuphead-style animations:
 - <https://twitter.com/TonyBabel>
 - <https://superrare.com/tonybabel>
 
-Very weird but probably very clever “visual coding” system/UI:
-<https://github.com/samuelmtimbo/unit>
+Very weird but probably very clever “visual coding” system/UI: <https://github.com/samuelmtimbo/unit>
 
 ## Example of "Good" Documentation
 
