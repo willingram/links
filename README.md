@@ -299,6 +299,9 @@ Git for data:
 Git for data-science:
 <https://dvc.org/>
 
+Terminus DB:
+<https://terminusdb.com/>
+
 ### Database General
 
 Astro's offering: <https://astro.build/db/>
