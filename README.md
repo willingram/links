@@ -308,6 +308,8 @@ Astro's offering: <https://astro.build/db/>
 
 Kysely typesafe SQL-query builder (not an ORM): <https://kysely.dev/>
 
+"Managed Duck-DB-in-the-cloud": <https://motherduck.com/>
+
 ### DB Migrations
 
 Schema migrations in PlanetScale:
