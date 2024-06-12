@@ -34,6 +34,10 @@ LLM tutorial:
 <https://jaykmody.com/blog/gpt-from-scratch/>
 <https://news.ycombinator.com/item?id=34726115>
 
+LLM Visualization (and interactive learning tool): <https://bbycroft.net/llm>
+
+nanoGPT in a spreadsheet: <https://github.com/dabochen/spreadsheet-is-all-you-need>
+
 ## Tools (TODO: Some might fit better in frontend/backend specific categories)
 
 Faster (?) cross-platform nvm: <https://github.com/Schniz/fnm>
@@ -234,6 +238,9 @@ This blog post has lots of good information about Chakra and Panda:
 Determine good line heights:
 <https://www.thegoodlineheight.com/>
 
+"A look at how I solved a design problem with CSS cap unit.":
+<https://ishadeed.com/article/css-cap-unit/>
+
 Architecting design systems:
 [unread] <https://blog.almaer.com/building-a-modern-design-system-in-layers/>
 
@@ -417,6 +424,15 @@ Shawn Wang: <https://www.swyx.io/>
 Dan Abramov: <https://overreacted.io/>
 
 A list of links not unlike this one (should maybe be in a different category): <https://github.com/charlax/professional-programming>
+
+## Data Analytics
+
+Data frames:
+
+- Pandas: <https://github.com/pandas-dev/pandas/blob/v2.2.2/pandas/core/frame.py#L509-L12664>
+- R: <https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/data.frame>
+
+DuckDB Version 1 announcement: <https://duckdb.org/2024/06/03/announcing-duckdb-100>
 
 ## Uncategorized
 
