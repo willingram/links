@@ -273,6 +273,10 @@ Cool illustrated guide to DOM events: <Lhttps://domevents.dev/>
 
 Color space design (Oklab): <https://bottosson.github.io/posts/oklab/>
 
+"The Colour Science Precis is a set of posters designed for the computer-generated imagery artist": <https://github.com/colour-science/colour-science-precis>
+
+"This paper presents an introduction to the color pipelines behind modern feature-film visual-effects and animation": <https://cinematiccolor.org/>
+
 ### Viz
 
 <https://observablehq.com/>
