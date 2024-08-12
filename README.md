@@ -429,6 +429,18 @@ Dan Abramov: <https://overreacted.io/>
 
 A list of links not unlike this one (should maybe be in a different category): <https://github.com/charlax/professional-programming>
 
+## Local-first
+
+[https://www.powersync.com/](https://www.powersync.com/)
+
+[https://jazz.tools/](https://jazz.tools/)
+
+[https://electric-sql.com/](https://electric-sql.com/) (and [https://next.electric-sql.com/](https://next.electric-sql.com/))
+
+[https://replicache.dev/](https://replicache.dev/)
+
+[https://zerosync.dev/](https://zerosync.dev/) (from Replicache devs, replacing [Reflect](https://reflect.net/))
+
 ## Data Analytics
 
 Data frames:
