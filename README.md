@@ -430,6 +430,13 @@ Todo+ Visual Studio Code Extension (not todo.txt format):
 
 The Grug Brained Developer: <https://grugbrain.dev/>
 
+Recommended reading from the Grug Brained Developer:
+
+- <https://www.dreamsongs.com/WorseIsBetter.html>
+- <https://www.dreamsongs.com/Files/worse-is-worse.pdf>
+- <https://www.dreamsongs.com/Files/IsWorseReallyBetter.pdf>
+- <https://www.goodreads.com/en/book/show/39996759-a-philosophy-of-software-design>
+
 Shawn Wang: <https://www.swyx.io/>
 
 Dan Abramov: <https://overreacted.io/>
