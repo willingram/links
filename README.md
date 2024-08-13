@@ -428,6 +428,8 @@ Todo+ Visual Studio Code Extension (not todo.txt format):
 
 <https://laughingmeme.org/>
 
+The Grug Brained Developer: <https://grugbrain.dev/>
+
 Shawn Wang: <https://www.swyx.io/>
 
 Dan Abramov: <https://overreacted.io/>
