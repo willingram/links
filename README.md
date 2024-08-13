@@ -115,17 +115,18 @@ TypeScript-first web framework:
 
 ## "Next-gen" native-code tooling
 
-OXC project:
+OXC project ("The JavaScript Oxidation Compiler"):
 
 - <https://github.com/oxc-project/oxc>
+- <https://oxc.rs/>
 
-Biome (née Rome):
-
-- <https://biomejs.dev/>
-
-Ruff (Python tooling):
+Biome (formerly the Rome project):
 
 - <https://biomejs.dev/>
+
+Astral Python tooling (Ruff, UV):
+
+- [<https://biomejs.dev/>](https://astral.sh/)
 
 Rspack:
 
@@ -134,6 +135,10 @@ Rspack:
 Turbo:
 
 - <https://turbo.build/pack>
+
+Rolldown (rollup-compatible bundler in Rust, being built to replace both esbuild and rollup in the Vite project):
+
+- <https://rolldown.rs/>
 
 ## Frontend
 
