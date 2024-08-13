@@ -437,6 +437,8 @@ Recommended reading from the Grug Brained Developer:
 - <https://www.dreamsongs.com/Files/IsWorseReallyBetter.pdf>
 - <https://www.goodreads.com/en/book/show/39996759-a-philosophy-of-software-design>
 
+Recommended reading from the htmx site: <https://htmx.org/essays/>
+
 Shawn Wang: <https://www.swyx.io/>
 
 Dan Abramov: <https://overreacted.io/>
