@@ -140,6 +140,10 @@ Rolldown (rollup-compatible bundler in Rust, being built to replace both esbuild
 
 - <https://rolldown.rs/>
 
+Mako from Ant Group (another Rust bundler):
+
+- <https://makojs.dev/>
+
 ## Frontend
 
 ### Performance
@@ -438,12 +442,17 @@ Recommended reading from the Grug Brained Developer:
 - <https://www.goodreads.com/en/book/show/39996759-a-philosophy-of-software-design>
 
 Recommended reading from the htmx site: <https://htmx.org/essays/>
+Related to one of the oldest essays in that list: <https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/>
 
 Shawn Wang: <https://www.swyx.io/>
 
 Dan Abramov: <https://overreacted.io/>
 
 A list of links not unlike this one (should maybe be in a different category): <https://github.com/charlax/professional-programming>
+
+## AI / Artificial Intelligence
+
+Structured output in ChatGPT: <https://openai.com/index/introducing-structured-outputs-in-the-api/>
 
 ## Local-first
 
@@ -470,6 +479,8 @@ DuckDB Version 1 announcement: <https://duckdb.org/2024/06/03/announcing-duckdb-
 
 [unread] [list] <https://iq.opengenus.org/rpc-vs-rest/#:~:text=1.-,Differences%20between%20RPC%20and%20REST,supports%20GET%20and%20POST%20requests>.
 
+Hasen Judi's "manifesto" (Grug/US Graphics Company - esque): <https://x.com/Hasen_Judi/status/1781698942935379975>
+
 Someone working on interesting CRDT applications:
 <https://twitter.com/JungleSilicon>
 
@@ -479,7 +490,7 @@ DataDog outage analysis:
 UploadThing from Ping.gg:
 <https://github.com/pingdotgg/uploadthing>
 
-Jobs on marketing:
+Steve Jobs on marketing:
 [unread] <https://twitter.com/LinusEkenstam/status/1662105536165183489>
 
 Nice Cuphead-style animations:
@@ -488,6 +499,12 @@ Nice Cuphead-style animations:
 - <https://superrare.com/tonybabel>
 
 Very weird but probably very clever “visual coding” system/UI: <https://github.com/samuelmtimbo/unit>
+
+Conversation with Anders about checked exceptions: <https://www.artima.com/articles/the-trouble-with-checked-exceptions>
+
+Dan Abramov / Bluesky ATProto: <https://atproto.com/>
+
+Camper van listing: <https://www.truckcamperadventure.com/truck-camper-buyers-guide/>
 
 ## Example of "Good" Documentation
 
