@@ -429,6 +429,9 @@ Netflix culture (may have been different when it was first published!): <https:/
 
 ## Estimation and Story Pointing
 
+Actually very good discussion of "Agile", and a guide to what it is / should be / could be:
+<https://www.atlassian.com/agile/manifesto>
+
 [read] #NoEstimates (Allen Holub):
 <https://www.youtube.com/watch?v=QVBlnCTu9Ms>
 
