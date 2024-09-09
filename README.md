@@ -233,6 +233,9 @@ Next-gen "drag-and-drop":
 The excellent shadcn:
 <https://ui.shadcn.com>
 
+Senior DX engineer @ Vercel, very impressive CSS-fu:
+<https://x.com/jh3yy>
+
 Chrome CSS 2023 updates:
 [unread] <https://developer.chrome.com/blog/whats-new-css-ui-2023/>
 
@@ -441,6 +444,12 @@ Netflix culture (may have been different when it was first published!): <https:/
 
 Todo+ Visual Studio Code Extension (not todo.txt format):
 <https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus>
+
+## Good Apps
+
+Finance tool, "Fey offers a streamlined view of real-time market data, effortlessly giving you the big picture on your favorite companies.": <https://www.fey.com/>
+
+Developer monetization platform: <https://polar.sh/>
 
 ## Good Developer Blogs
 
