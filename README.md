@@ -300,12 +300,16 @@ Monospace design experiment: <https://owickstrom.github.io/the-monospace-web/>
 
 <https://observablehq.com/>
 
+TanStack / TanStack Table recommends this as an all-in-one, batteries-included table lib:
+
+<https://www.ag-grid.com/>
+
 ### Misc (TODO: Categorize)
 
 Enzo type-checking library:
 [unread] <https://kaleidawave.github.io/posts/introducing-ezno/>
 
-Choose "boring" technology:
+Choose "boring" technology (TODO: move this to "philosophy"-esque section):
 <https://boringtechnology.club/>
 
 ### Multiplayer / CRDT / Live Collab
@@ -527,9 +531,15 @@ Quebec campers:
 - https://www.roulottehl.com/caravanes-portees
 - https://northern-lite.com/canadian-rv-dealers/
 
-## Good Courses
+## Business
+
+Dax's philosophy underpinning SST's business model: <https://x.com/thdxr/status/1830990051322237260>
+
+## Good Courses / Instructional Videos
 
 "Learn how to build modern user interfaces for the web": <https://buildui.com/>
+
+"Next.js App Router Authentication (Sessions, Cookies, JWTs)", by leerob@vercel: <https://www.youtube.com/watch?v=DJvM2lSPn6w>
 
 ## Example of "Good" Documentation
 
