@@ -144,6 +144,14 @@ Mako from Ant Group (another Rust bundler):
 
 - <https://makojs.dev/>
 
+A note on Rust-based JavaScript linters and why type-linting is not available:
+
+- https://www.joshuakgoldberg.com/blog/rust-based-javascript-linters-fast-but-no-typed-linting-right-now/
+
+An article on Rust-based TypeScript from Matt Pocock:
+
+- https://www.totaltypescript.com/rewriting-typescript-in-rust
+
 ## Frontend
 
 ### Performance
@@ -334,6 +342,10 @@ Kysely typesafe SQL-query builder (not an ORM): <https://kysely.dev/>
 
 "Managed Duck-DB-in-the-cloud": <https://motherduck.com/>
 
+Google "Pipe Syntax in SQL" experiment: https://research.google/pubs/sql-has-problems-we-can-fix-them-pipe-syntax-in-sql/
+
+Related (and PQL insipiration), PRQL: https://prql-lang.org/
+
 ### DB Migrations
 
 Schema migrations in PlanetScale:
@@ -507,6 +519,17 @@ Conversation with Anders about checked exceptions: <https://www.artima.com/artic
 Dan Abramov / Bluesky ATProto: <https://atproto.com/>
 
 Camper van listing: <https://www.truckcamperadventure.com/truck-camper-buyers-guide/>
+
+Quebec campers:
+
+- [<https://eboudreaultvr.com/>](https://www.lelievremecaniquesport.com/fr/)
+- https://www.vr-evolution.ca/fr/
+- https://www.roulottehl.com/caravanes-portees
+- https://northern-lite.com/canadian-rv-dealers/
+
+## Good Courses
+
+"Learn how to build modern user interfaces for the web": <https://buildui.com/>
 
 ## Example of "Good" Documentation
 
