@@ -286,6 +286,8 @@ Color space design (Oklab): <https://bottosson.github.io/posts/oklab/>
 
 "This paper presents an introduction to the color pipelines behind modern feature-film visual-effects and animation": <https://cinematiccolor.org/>
 
+Monospace design experiment: <https://owickstrom.github.io/the-monospace-web/>
+
 ### Viz
 
 <https://observablehq.com/>
