@@ -101,6 +101,8 @@ Are The Types Wrong CLI (check that package exports are correct):
 - <https://tsdoc.org/>
 - <https://www.npmjs.com/package/@microsoft/tsdoc>
 
+Optional vs. undefined: <https://tkdodo.eu/blog/optional-vs-undefined>
+
 ## Bun
 
 Bun:
