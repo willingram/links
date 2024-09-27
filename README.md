@@ -555,6 +555,8 @@ Dax's philosophy underpinning SST's business model: <https://x.com/thdxr/status/
 
 "Next.js App Router Authentication (Sessions, Cookies, JWTs)", by leerob@vercel: <https://www.youtube.com/watch?v=DJvM2lSPn6w>
 
+"Mastering Postgres is an in-depth video course by database educator Aaron Francis , in partnership with , the fully-managed PostgreSQL database platform.": <https://masteringpostgres.com/>
+
 ## Example of "Good" Documentation
 
 Stripe: long recognized as setting the bar for great API documentation:
