@@ -121,6 +121,7 @@ OXC project ("The JavaScript Oxidation Compiler"):
 
 - <https://github.com/oxc-project/oxc>
 - <https://oxc.rs/>
+- Bundler/transformer: <https://oxc.rs/blog/2024-09-29-transformer-alpha.html>
 
 Biome (formerly the Rome project):
 
@@ -153,6 +154,8 @@ A note on Rust-based JavaScript linters and why type-linting is not available:
 An article on Rust-based TypeScript from Matt Pocock:
 
 - https://www.totaltypescript.com/rewriting-typescript-in-rust
+
+Devon's video on history of bundlers ("Bundling Past, Present, and Future"): <https://www.youtube.com/watch?v=JUS6EPMbk0U>
 
 ## Frontend
 
@@ -218,6 +221,13 @@ RSC: <https://twitter.com/eli_white/status/1657729306749988864>
 
 Discussion on React server components with Ryan Carniato, Tanner Linsley, & Ben Holmes:
 [unread] <https://www.youtube.com/watch?v=QRVtu9_xi2k>
+
+### Web Components
+
+"Maybe Web Components are not the Future?": <https://dev.to/ryansolid/maybe-web-components-are-not-the-future-hfh>
+"Web Components Are Not the Future": <https://dev.to/ryansolid/web-components-are-not-the-future-48bh>
+"Web Components Are Not the Future — They’re the Present": <https://www.abeautifulsite.net/posts/web-components-are-not-the-future-they-re-the-present/>
+"Web components are okay": <https://nolanlawson.com/2024/09/28/web-components-are-okay/>
 
 ### UI, Design, and CSS
 
@@ -325,6 +335,15 @@ Open-source framework:
 CRDT resources:
 <https://crdt.tech/resources>
 
+Good tweet + replies on the topic:
+<https://x.com/vivekgalatage/status/1840358074114035749>
+
+That ^ tweet links to these guides (good animations):
+<https://madebyevan.com/algos/>
+
+CRDT talk ("Consistency without consensus in production systems" by Peter Bourgon):
+<https://www.youtube.com/watch?v=em9zLzM8O7c>
+
 ## Backend
 
 ### Architecture
@@ -385,6 +404,11 @@ Technical dimensions of programming systems:
 
 Zig (what Bun is written in) tutorial:
 <https://www.openmymind.net/learning_zig/>
+
+The Language Server Protocol (TODO: better place for this link):
+<https://microsoft.github.io/language-server-protocol/>
+^ linked from above, this TypeScript language definition tool:
+<https://github.com/eclipse-langium/langium>
 
 ## State Management
 
