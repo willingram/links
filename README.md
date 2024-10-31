@@ -1,5 +1,10 @@
 # Software Development Links
 
+## IDEs
+
+"Zed is a next-generation code editor designed for high-performance collaboration with humans and AI.":
+<https://zed.dev/>
+
 ## Code Conventions
 
 Naming conventions:
@@ -36,7 +41,13 @@ LLM tutorial:
 
 LLM Visualization (and interactive learning tool): <https://bbycroft.net/llm>
 
+Little video from Matt Pocock:
+<https://x.com/mattpocockuk/status/1851599427581976691>
+
 nanoGPT in a spreadsheet: <https://github.com/dabochen/spreadsheet-is-all-you-need>
+
+"NotebookLM is an AI-powered research and writing assistant that works best with the sources you upload":
+<https://notebooklm.google.com/>
 
 ## Tools (TODO: Some might fit better in frontend/backend specific categories)
 
@@ -319,6 +330,9 @@ Monospace design experiment: <https://owickstrom.github.io/the-monospace-web/>
 
 The Rive app:
 <https://rive.app/>
+
+Really simple + performant landing page for Planetscale (accessed 31/10/24):
+<https://planetscale.com/>
 
 ### Viz
 
