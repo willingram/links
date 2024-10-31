@@ -164,6 +164,9 @@ Devon's video on history of bundlers ("Bundling Past, Present, and Future"): <ht
 Chrome project to work w/ React frameworks to improve performance / UX:
 <https://developer.chrome.com/blog/aurora-update-2023/>
 
+Wes Bos video on the McMaster-Carr website and how it's so simple and fast:
+<https://www.youtube.com/watch?v=-Ln-8QM8KhQ>
+
 Millionjs project:
 
 - The linter (VS Code plugin): <https://million.dev/blog/lint>
