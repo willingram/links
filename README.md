@@ -225,6 +225,9 @@ RSC: <https://twitter.com/eli_white/status/1657729306749988864>
 Discussion on React server components with Ryan Carniato, Tanner Linsley, & Ben Holmes:
 [unread] <https://www.youtube.com/watch?v=QRVtu9_xi2k>
 
+The React compiler beta release:
+<https://react.dev/blog/2024/10/21/react-compiler-beta-release>
+
 ### Web Components
 
 "Maybe Web Components are not the Future?": <https://dev.to/ryansolid/maybe-web-components-are-not-the-future-hfh>
@@ -314,6 +317,9 @@ Color space design (Oklab): <https://bottosson.github.io/posts/oklab/>
 
 Monospace design experiment: <https://owickstrom.github.io/the-monospace-web/>
 
+The Rive app:
+<https://rive.app/>
+
 ### Viz
 
 <https://observablehq.com/>
@@ -394,7 +400,7 @@ Good guide to hosting options: <https://getdeploying.com/>
 
 SST: <https://sst.dev/>
 
-## Programming Languages
+## Programming Language Design and Tooling
 
 Anders Hejlsberg and Guido van Rossum:
 [unread] <https://www.youtube.com/watch?v=sBVYn0cIlWM>
@@ -408,10 +414,16 @@ Technical dimensions of programming systems:
 Zig (what Bun is written in) tutorial:
 <https://www.openmymind.net/learning_zig/>
 
+A newer (more betterer?) tutorial from https://x.com/PedroPark9:
+<https://pedropark99.github.io/zig-book/>
+
 The Language Server Protocol (TODO: better place for this link):
 <https://microsoft.github.io/language-server-protocol/>
 ^ linked from above, this TypeScript language definition tool:
 <https://github.com/eclipse-langium/langium>
+
+LLVM Tutorial(s):
+<https://llvm.org/docs/tutorial/>
 
 ## State Management
 
@@ -512,6 +524,14 @@ A list of links not unlike this one (should maybe be in a different category): <
 ## AI / Artificial Intelligence
 
 Structured output in ChatGPT: <https://openai.com/index/introducing-structured-outputs-in-the-api/>
+
+## The Java Challenge
+
+Sprint start:
+<https://start.spring.io/>
+
+My full spec for the challenge:
+<https://claude.ai/chat/65b84490-14c6-4144-ad54-72c578946118>
 
 ## Local-first
 
