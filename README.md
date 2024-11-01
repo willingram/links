@@ -533,7 +533,14 @@ Shawn Wang: <https://www.swyx.io/>
 
 Dan Abramov: <https://overreacted.io/>
 
-A list of links not unlike this one (should maybe be in a different category): <https://github.com/charlax/professional-programming>
+List of links to list of links: 
+- <https://github.com/charlax/professional-programming>
+- https://github.com/donnemartin/system-design-primer
+- https://github.com/kilimchoi/engineering-blogs
+- https://github.com/ByteByteGoHq/system-design-101
+- https://github.com/yangshun/front-end-interview-handbook
+- https://github.com/yangshun/tech-interview-handbook
+- https://github.com/kamranahmedse/developer-roadmap
 
 ## AI / Artificial Intelligence
 
