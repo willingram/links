@@ -10,7 +10,10 @@
 Naming conventions:
 <https://www.swyx.io/how-to-name-things>
 
-## Coding Fonts
+## Fonts / Typefaces / Typography
+
+A book! On typography! By Matthew Butterick:
+<https://practicaltypography.com/>
 
 <https://larsenwork.com/monoid/>
 
