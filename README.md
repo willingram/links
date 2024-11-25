@@ -415,7 +415,9 @@ Prisma / PlanetScale migration integration:
 
 Good guide to hosting options: <https://getdeploying.com/>
 
-SST: <https://sst.dev/>
+SST (doesn't really belong here anymore, this is IaC or deployment/dev tooling): <https://sst.dev/>
+
+"Coolify is an all-in one PaaS that helps you to self-host your own applications, databases or services (like Wordpress, Plausible Analytics, Ghost) without managing your servers and all the complexity that comes with it, it is also known as an open-source & self-hostable Heroku / Netlify / Vercel alternative.": <https://coolify.io/>
 
 ## Programming Language Design and Tooling
 
