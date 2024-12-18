@@ -331,6 +331,10 @@ Color space design (Oklab): <https://bottosson.github.io/posts/oklab/>
 
 Monospace design experiment: <https://owickstrom.github.io/the-monospace-web/>
 
+The "GPU handbook" (also an interesting design experiment): <https://modal.com/gpu-glossary>
+
+Dax / SST OpenAUTH project (another nice design experiment): <https://openauth.js.org/>
+
 The Rive app:
 <https://rive.app/>
 
