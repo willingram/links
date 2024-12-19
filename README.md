@@ -67,6 +67,8 @@ New package registry from Ryan Dahl + Deno team:
 - <https://jsr.io/docs/introduction>
 - <https://deno.com/blog/jsr_open_beta>
 
+State of JS 2024: <https://2024.stateofjs.com/en-US/>
+
 ## TypeScript Ecosystem
 
 Types vs. Interfaces:
@@ -129,6 +131,11 @@ TypeScript-first web framework:
 <https://elysiajs.com/>
 <https://elysiajs.com/blog/with-prisma.html>
 
+Articles on V8, C / C++, zig, systems integration:
+
+- <https://bun.sh/blog/how-bun-supports-v8-apis-without-using-v8-part-1>
+- <https://bun.sh/blog/how-bun-supports-v8-apis-without-using-v8-part-2>
+
 ## "Next-gen" native-code tooling
 
 OXC project ("The JavaScript Oxidation Compiler"):
@@ -152,6 +159,10 @@ Rspack:
 Turbo:
 
 - <https://turbo.build/pack>
+
+Vlt / "Volt" ("VLT delivers the tools and infrastructure developers need to streamline package management, scale efficiently, and secure a faster, more tailored web experience."):
+
+- <https://www.vlt.sh/>
 
 Rolldown (rollup-compatible bundler in Rust, being built to replace both esbuild and rollup in the Vite project):
 
@@ -242,6 +253,8 @@ Discussion on React server components with Ryan Carniato, Tanner Linsley, & Ben 
 The React compiler beta release:
 <https://react.dev/blog/2024/10/21/react-compiler-beta-release>
 
+React 19: <https://react.dev/blog/2024/12/05/react-19>
+
 ### Web Components
 
 "Maybe Web Components are not the Future?": <https://dev.to/ryansolid/maybe-web-components-are-not-the-future-hfh>
@@ -270,6 +283,10 @@ Senior DX engineer @ Vercel, very impressive CSS-fu:
 
 Chrome CSS 2023 updates:
 [unread] <https://developer.chrome.com/blog/whats-new-css-ui-2023/>
+
+CSS transitions: <https://x.com/jh3yy/status/1869533505686036688>
+
+Blendy ("Meet Blendy, a framework-agnostic tool that smoothly transitions one element into another with just a few lines of code."): <https://blendy.tahazsh.com/>
 
 CSS-in-JS library with compile-time optimizations:
 <https://panda-css.com/>
@@ -333,7 +350,10 @@ Monospace design experiment: <https://owickstrom.github.io/the-monospace-web/>
 
 The "GPU handbook" (also an interesting design experiment): <https://modal.com/gpu-glossary>
 
-Dax / SST OpenAUTH project (another nice design experiment): <https://openauth.js.org/>
+Dax / SST OpenAUTH project (another nice design experiment): 
+
+- <https://openauth.js.org/>
+- <https://x.com/thdxr/status/1866197014314131772>
 
 The Rive app:
 <https://rive.app/>
@@ -520,6 +540,20 @@ Developer monetization platform: <https://polar.sh/>
 
 ## Good Developer Blogs
 
+Josh Comeau (frontend, css, React): <https://www.joshwcomeau.com/>
+
+From above:
+
+- "Why React Re-Renders": <https://www.joshwcomeau.com/react/why-react-re-renders/>
+
+Marc Brooker @ AWS: <https://brooker.co.za/blog/>
+
+From above:
+
+- "It’s About Time!": <https://brooker.co.za/blog/2023/11/27/about-time.html>
+- "Learning to build distributed systems": <https://brooker.co.za/blog/2019/04/03/learning.html>
+- "DSQL Vignette: Aurora DSQL, and A Personal Story": <https://brooker.co.za/blog/2024/12/03/aurora-dsql.html>
+
 <https://echoesofsomewhere.com/category/devblog/>
 
 <https://www.nexxel.dev/>
@@ -528,7 +562,7 @@ Developer monetization platform: <https://polar.sh/>
 
 The Grug Brained Developer: <https://grugbrain.dev/>
 
-Recommended reading from the Grug Brained Developer:
+From above:
 
 - <https://www.dreamsongs.com/WorseIsBetter.html>
 - <https://www.dreamsongs.com/Files/worse-is-worse.pdf>
@@ -584,9 +618,15 @@ Data frames:
 
 DuckDB Version 1 announcement: <https://duckdb.org/2024/06/03/announcing-duckdb-100>
 
+Jon's Excel Charts and Tutorials: <https://peltiertech.com/Excel/Charts/ChartIndex.html>
+
 ## Uncategorized
 
+List of personal portfolio sites (twitter threads): <https://x.com/pilcrowonpaper/status/1852245786723258468>
+
 [unread] [list] <https://iq.opengenus.org/rpc-vs-rest/#:~:text=1.-,Differences%20between%20RPC%20and%20REST,supports%20GET%20and%20POST%20requests>.
+
+"Using lightweight formal methods to validate a key-value storage node in Amazon S3": <https://www.amazon.science/publications/using-lightweight-formal-methods-to-validate-a-key-value-storage-node-in-amazon-s3>
 
 Hasen Judi's "manifesto" (Grug/US Graphics Company - esque): <https://x.com/Hasen_Judi/status/1781698942935379975>
 
