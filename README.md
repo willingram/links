@@ -284,8 +284,11 @@ Next-gen "drag-and-drop":
  - Older video: <https://www.youtube.com/watch?v=5SQkOyzZLHM>
  - Newer video: <https://www.youtube.com/watch?v=79kZdABVtCg>
 
-The excellent shadcn:
-<https://ui.shadcn.com>
+The excellent shadcn (tailwind copy-paste "ui framework"): <https://ui.shadcn.com>
+
+Origin UI ("Origin UI is an extensive collection of copy-and-paste components for quickly building app UIs. It‘s free, open-source, and ready to drop into your projects."): <https://originui.com/>
+
+Devon's (Parcel) React Aria ("Over 40 components with built-in behavior, adaptive interactions, top-tier accessibility, and internationalization out of the box, ready for your styles."): <https://react-spectrum.adobe.com/react-aria/>
 
 Senior DX engineer @ Vercel, very impressive CSS-fu:
 <https://x.com/jh3yy>
@@ -301,14 +304,15 @@ CSS-in-JS library with compile-time optimizations:
 <https://panda-css.com/>
 
 Panda CSS references these projects:
-Chakra UI — where it all started
-Vanilla Extract — for inspiring the utilities API
-Stitches — for inspiring the recipes and variants API
-Tailwind CSS — for inspiring the JIT compiler and strategy
-Class Variance Authority — for inspiring the cva name
-Styled System — for the initial idea of Styled Props
-Linaria — for inspiring the initial atomic css strategy
-Uno CSS — for inspiring the studio and astro integration
+
+- Chakra UI — where it all started
+- Vanilla Extract — for inspiring the utilities API
+- Stitches — for inspiring the recipes and variants API
+- Tailwind CSS — for inspiring the JIT compiler and strategy
+- Class Variance Authority — for inspiring the cva name
+- Styled System — for the initial idea of Styled Props
+- Linaria — for inspiring the initial atomic css strategy
+- Uno CSS — for inspiring the studio and astro integration
 
 This blog post has lots of good information about Chakra and Panda:
 <https://www.adebayosegun.com/blog/the-future-of-chakra-ui>
