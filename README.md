@@ -34,7 +34,7 @@ From the Berkeley Graphics site listed in the "uncategorised" section:
 2024 - switched to Monaspace:
 <https://github.com/githubnext/monaspace>
 
-## AI
+## AI / LLM / Artifical Intelligence
 
 <https://github.com/AntonOsika/gpt-engineer>
 
@@ -43,6 +43,8 @@ LLM tutorial:
 <https://news.ycombinator.com/item?id=34726115>
 
 LLM Visualization (and interactive learning tool): <https://bbycroft.net/llm>
+
+aider, "Aider is AI pair programming in your terminal": <https://aider.chat/>
 
 Little video from Matt Pocock:
 <https://x.com/mattpocockuk/status/1851599427581976691>
@@ -53,6 +55,11 @@ nanoGPT in a spreadsheet: <https://github.com/dabochen/spreadsheet-is-all-you-ne
 <https://notebooklm.google.com/>
 
 "Text to Math Animations, powered by manim engine + gpt-4o": <https://visualmath-ai.vercel.app/>
+
+Anthropic / Claude, Model Context Protocol ("The Model Context Protocol is an open standard that enables developers to build secure, two-way connections between their data sources and AI-powered tools. The architecture is straightforward: developers can either expose their data through MCP servers or build AI applications (MCP clients) that connect to these servers."):
+
+- <https://www.anthropic.com/news/model-context-protocol>
+- <https://modelcontextprotocol.io/introduction>
 
 ## Tools (TODO: Some might fit better in frontend/backend specific categories)
 
@@ -511,6 +518,8 @@ Kent Dodds articles on testing (i.e. React Testing Framework):
 
 - <https://kentcdodds.com/blog/common-mistakes-with-react-testing-library>
 
+Vitest ("Vite-native", shared config): <https://vitest.dev/guide/comparisons.html>
+
 ## Culture
 
 Netflix culture (may have been different when it was first published!): <https://jobs.netflix.com/culture>
@@ -545,6 +554,8 @@ Finance tool, "Fey offers a streamlined view of real-time market data, effortles
 Developer monetization platform: <https://polar.sh/>
 
 ## Good Developer Blogs
+
+Artem Zakharchenko (MSW.js, testing): <https://kettanaito.com/blog>
 
 Josh Comeau (frontend, css, React): <https://www.joshwcomeau.com/>
 
@@ -633,6 +644,11 @@ DuckDB Version 1 announcement: <https://duckdb.org/2024/06/03/announcing-duckdb-
 
 Jon's Excel Charts and Tutorials: <https://peltiertech.com/Excel/Charts/ChartIndex.html>
 
+## Books
+
+- <https://www.amazon.co.uk/Black-Box-Thinking-Surprising-Success/dp/1473613779>
+- <https://www.amazon.co.uk/Checklist-Manifesto-Things-Right-Gawande/dp/1846683149>
+
 ## Uncategorized
 
 List of personal portfolio sites (twitter threads): <https://x.com/pilcrowonpaper/status/1852245786723258468>
@@ -665,15 +681,6 @@ Very weird but probably very clever “visual coding” system/UI: <https://gith
 Conversation with Anders about checked exceptions: <https://www.artima.com/articles/the-trouble-with-checked-exceptions>
 
 Dan Abramov / Bluesky ATProto: <https://atproto.com/>
-
-Camper van listing: <https://www.truckcamperadventure.com/truck-camper-buyers-guide/>
-
-Quebec campers:
-
-- [<https://eboudreaultvr.com/>](https://www.lelievremecaniquesport.com/fr/)
-- https://www.vr-evolution.ca/fr/
-- https://www.roulottehl.com/caravanes-portees
-- https://northern-lite.com/canadian-rv-dealers/
 
 ## Business
 
@@ -724,3 +731,12 @@ Non-api docs:
 <https://worksinprogress.co/issue/why-britain-doesnt-build>
 <https://ukpersonal.finance/index-funds/>
 <https://gwern.net/bitcoin-is-worse-is-better>
+
+Camper van listing: <https://www.truckcamperadventure.com/truck-camper-buyers-guide/>
+
+Quebec campers:
+
+- [<https://eboudreaultvr.com/>](https://www.lelievremecaniquesport.com/fr/)
+- https://www.vr-evolution.ca/fr/
+- https://www.roulottehl.com/caravanes-portees
+- https://northern-lite.com/canadian-rv-dealers/
