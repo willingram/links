@@ -52,6 +52,8 @@ nanoGPT in a spreadsheet: <https://github.com/dabochen/spreadsheet-is-all-you-ne
 "NotebookLM is an AI-powered research and writing assistant that works best with the sources you upload":
 <https://notebooklm.google.com/>
 
+"Text to Math Animations, powered by manim engine + gpt-4o": <https://visualmath-ai.vercel.app/>
+
 ## Tools (TODO: Some might fit better in frontend/backend specific categories)
 
 Faster (?) cross-platform nvm: <https://github.com/Schniz/fnm>
@@ -313,6 +315,8 @@ Determine good line heights:
 Architecting design systems:
 [unread] <https://blog.almaer.com/building-a-modern-design-system-in-layers/>
 
+AWS design system, Cloudscape ("An open source design system for the cloud"): <https://cloudscape.design/>
+
 Difficult to describe, a personal website/project, espousing some kind of “design philosophy”:
 <https://berkeleygraphics.com/>
 
@@ -423,6 +427,8 @@ Kysely typesafe SQL-query builder (not an ORM): <https://kysely.dev/>
 Google "Pipe Syntax in SQL" experiment: https://research.google/pubs/sql-has-problems-we-can-fix-them-pipe-syntax-in-sql/
 
 Related (and PQL insipiration), PRQL: https://prql-lang.org/
+
+Oriole DB ("OrioleDB: The next-generation storage engine for PostgreSQL"): <https://www.orioledb.com/docs>
 
 ### DB Migrations
 
@@ -555,6 +561,13 @@ From above:
 - "DSQL Vignette: Aurora DSQL, and A Personal Story": <https://brooker.co.za/blog/2024/12/03/aurora-dsql.html>
 
 <https://echoesofsomewhere.com/category/devblog/>
+
+Martin Fowler: <https://martinfowler.com/>
+
+From above:
+
+- <https://martinfowler.com/bliki/TeamTopologies.html>
+- <https://martinfowler.com/eaaDev/timeNarrative.html>
 
 <https://www.nexxel.dev/>
 
@@ -710,3 +723,4 @@ Non-api docs:
 
 <https://worksinprogress.co/issue/why-britain-doesnt-build>
 <https://ukpersonal.finance/index-funds/>
+<https://gwern.net/bitcoin-is-worse-is-better>
