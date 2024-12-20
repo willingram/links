@@ -742,130 +742,130 @@ Quebec campers:
 
 ## Books
 
-I. Front-End Development & UI/UX:
+### Front-End Development & UI/UX
 
-JavaScript Ecosystem:
+#### JavaScript Ecosystem
 
-"JavaScript: The Definitive Guide" by David Flanagan (Comprehensive reference)
-"You Don't Know JS" series by Kyle Simpson (Deep dive into core mechanisms)
-"Secrets of the JavaScript Ninja" by John Resig, Bear Bibeault, and Josip Maras (Advanced techniques and best practices)
-"Web Development with Node and Express" by Ethan Brown (Server-side JavaScript)
-"Learning React" by Alex Banks and Eve Porcello (Introduction to React)
+- "JavaScript: The Definitive Guide" by David Flanagan - A comprehensive reference for JavaScript development that covers all aspects of the language.
+- "You Don't Know JS" series by Kyle Simpson - An in-depth exploration of JavaScript's core mechanisms and fundamental concepts.
+- "Secrets of the JavaScript Ninja" by John Resig, Bear Bibeault, and Josip Maras - Advanced techniques and best practices for professional JavaScript development.
+- "Web Development with Node and Express" by Ethan Brown - A guide to building server-side applications using JavaScript.
+- "Learning React" by Alex Banks and Eve Porcello - A comprehensive introduction to React and its ecosystem.
 
-UI/UX Design & Principles:
+#### UI/UX Design & Principles
 
-"Refactoring UI" by Adam Wathan and Steve Schoger (Practical UI design techniques)
-"Design for Developers" by Stephanie Rewis (Creating accessible UIs)
-"Don't Make Me Think, Revisited" by Steve Krug (Usability and intuitive design)
-"About Face: The Essentials of Interaction Design" by Alan Cooper (Comprehensive interaction design)
-"The Design of Everyday Things" by Don Norman (User-centered design principles)
+- "Refactoring UI" by Adam Wathan and Steve Schoger - Practical techniques for improving UI design without formal design training.
+- "Design for Developers" by Stephanie Rewis - A guide to creating accessible and effective user interfaces from a developer's perspective.
+- "Don't Make Me Think, Revisited" by Steve Krug - Essential principles of intuitive navigation and usability design.
+- "About Face: The Essentials of Interaction Design" by Alan Cooper - A comprehensive guide to interaction design principles and practices.
+- "The Design of Everyday Things" by Don Norman - Fundamental principles of user-centered design and human psychology.
 
-II. TypeScript & Type Systems:
+### TypeScript & Type Systems
 
-TypeScript:
+#### TypeScript
 
-"Effective TypeScript" by Dan Vanderkam (Best practices and advanced features)
-"Programming TypeScript" by Boris Cherny (Type systems, tooling, and integration)
-"Advanced TypeScript 3 Programming Projects" by Peter Ohler (Conditional types, mapped types, type inference)
+- "Effective TypeScript" by Dan Vanderkam - Best practices and advanced features for TypeScript development.
+- "Programming TypeScript" by Boris Cherny - A deep dive into TypeScript's type system, tooling, and integration strategies.
+- "Advanced TypeScript 3 Programming Projects" by Peter Ohler - Practical applications of conditional types, mapped types, and type inference.
 
-Type Systems & Language Design:
+#### Type Systems & Language Design
 
-"Types and Programming Languages" by Benjamin C. Pierce (Theoretical foundations of type systems)
-"Programming Language Pragmatics" by Michael L. Scott (Language design and implementation)
-"Crafting Interpreters" by Robert Nystrom (Practical language implementation)
+- "Types and Programming Languages" by Benjamin C. Pierce - Theoretical foundations and implementation of type systems.
+- "Programming Language Pragmatics" by Michael L. Scott - Comprehensive coverage of language design and implementation concepts.
+- "Crafting Interpreters" by Robert Nystrom - A practical guide to implementing programming languages.
 
-III. Software Architecture & Design:
+### Software Architecture & Design
 
-General Principles:
+#### General Principles
 
-"A Philosophy of Software Design" by John Ousterhout (Emphasis on simplicity and clarity)
-"Clean Architecture" by Robert C. Martin (Maintainable, testable, and framework-independent design)
-"Refactoring: Improving the Design of Existing Code" by Martin Fowler (Classic on refactoring)
-"Understanding Software" by Max Kanat-Alexander (Philosophy of software development)
-"Software Design X-Rays" by Adam Tornhill (Technical debt and code quality analysis)
+- "A Philosophy of Software Design" by John Ousterhout - A focus on simplicity and clarity in software design.
+- "Clean Architecture" by Robert C. Martin - Principles for creating maintainable, testable, and framework-independent designs.
+- "Refactoring: Improving the Design of Existing Code" by Martin Fowler - Essential techniques for improving code quality through refactoring.
+- "Understanding Software" by Max Kanat-Alexander - Philosophical approaches to software development and design.
+- "Software Design X-Rays" by Adam Tornhill - Methods for analyzing technical debt and code quality.
 
-Domain-Driven Design:
+#### Domain-Driven Design
 
-"Domain-Driven Design: Tackling Complexity in the Heart of Software" by Eric Evans (Modeling business domains)
+- "Domain-Driven Design: Tackling Complexity in the Heart of Software" by Eric Evans - Comprehensive guide to modeling complex business domains.
 
-Evolutionary Architecture:
+#### Evolutionary Architecture
 
-"Building Evolutionary Architectures" by Neal Ford, Rebecca Parsons, and Patrick Kua (Adapting to changing requirements)
-"Fundamentals of Software Architecture" by Neal Ford and Mark Richards (Comprehensive overview of architectural patterns)
+- "Building Evolutionary Architectures" by Neal Ford, Rebecca Parsons, and Patrick Kua - Strategies for creating adaptable software architectures.
+- "Fundamentals of Software Architecture" by Neal Ford and Mark Richards - A comprehensive overview of architectural patterns and practices.
 
-IV. Data & Databases:
+### Data & Databases
 
-Database Variety:
+#### Database Variety
 
-"Seven Databases in Seven Weeks" by Eric Redmond and Jim Wilson (Introduction to different database types)
+- "Seven Databases in Seven Weeks" by Eric Redmond and Jim Wilson - An exploration of different database types and their use cases.
 
-Data-Intensive Systems:
+#### Data-Intensive Systems
 
-"Designing Data-Intensive Applications" by Martin Kleppmann (Scalable and reliable data systems)
+- "Designing Data-Intensive Applications" by Martin Kleppmann - A comprehensive guide to building scalable and reliable data systems.
 
-Database Internals:
+#### Database Internals
 
-"Database Internals" by Alex Petrov (Low-level understanding of database systems)
+- "Database Internals" by Alex Petrov - A deep dive into the low-level implementation of database systems.
 
-V. Systems & Performance:
+### Systems & Performance
 
-Systems Performance:
+#### Systems Performance
 
-"Systems Performance: Enterprise and the Cloud" by Brendan Gregg (In-depth system-level performance analysis)
+- "Systems Performance: Enterprise and the Cloud" by Brendan Gregg - Comprehensive coverage of system-level performance analysis and optimization.
 
-Web Performance:
+#### Web Performance
 
-"Web Performance in Action" by Jeremy Wagner (Front-end and back-end web performance)
-"High Performance Browser Networking" by Ilya Grigorik (Network protocols and optimization)
+- "Web Performance in Action" by Jeremy Wagner - Practical techniques for optimizing front-end and back-end web performance.
+- "High Performance Browser Networking" by Ilya Grigorik - Deep dive into network protocols and optimization strategies.
 
-VI. GraphQL:
+### GraphQL
 
-"Production-Ready GraphQL" by Marc-André Giroux (Best practices for GraphQL in production)
+- "Production-Ready GraphQL" by Marc-André Giroux - Best practices and patterns for implementing GraphQL in production environments.
 
-VII. Team Dynamics, Culture, & Management:
+### Team Dynamics, Culture, & Management
 
-Team Organization & Management:
+#### Team Organization & Management
 
-"Team Topologies" by Matthew Skelton and Manuel Pais (Organizing teams for fast flow)
-"The Manager's Path" by Camille Fournier (Career guidance for engineers and managers)
-"An Elegant Puzzle: Systems of Engineering Management" by Will Larson (Engineering management principles)
-"Mythical Man-Month" by Frederick Brooks Jr. (Classic on software project management)
+- "Team Topologies" by Matthew Skelton and Manuel Pais - Patterns for organizing teams to optimize software delivery.
+- "The Manager's Path" by Camille Fournier - Career guidance for engineers transitioning into management roles.
+- "An Elegant Puzzle: Systems of Engineering Management" by Will Larson - Practical approaches to engineering management challenges.
+- "Mythical Man-Month" by Frederick Brooks Jr. - Classic insights into software project management and team dynamics.
 
-Developer Culture & Philosophy:
+#### Developer Culture & Philosophy
 
-"The Pragmatic Programmer" (20th Anniversary Edition) by Dave Thomas and Andy Hunt (Wide-ranging advice for developers)
-"Clean Code" by Robert C. Martin (Writing clean, maintainable code)
+- "The Pragmatic Programmer" (20th Anniversary Edition) by Dave Thomas and Andy Hunt - Comprehensive advice for software development practices.
+- "Clean Code" by Robert C. Martin - Principles and practices for writing maintainable, high-quality code.
 
-VIII. Design & Typography (Focused):
+### Design & Typography
 
-Typography:
+#### Typography
 
-"Thinking with Type" by Ellen Lupton (Comprehensive guide to typography)
-"The Elements of Typographic Style" by Robert Bringhurst (Detailed guide to typography)
+- "Thinking with Type" by Ellen Lupton - A comprehensive guide to typography principles and practices.
+- "The Elements of Typographic Style" by Robert Bringhurst - Detailed exploration of typographic principles and their application.
 
-Grid Systems:
+#### Grid Systems
 
-"Grid Systems in Graphic Design" by Josef Müller-Brockmann (Principles of grid systems)
+- "Grid Systems in Graphic Design" by Josef Müller-Brockmann - Fundamental principles of grid systems in design.
 
-IX. Emerging Trends:
+### Emerging Trends
 
-Local-First & Distributed Systems:
+#### Local-First & Distributed Systems
 
-"Local-First Web Development" edited by Johannes Ernst et al. (CRDTs, P2P, and the local-first movement)
+- "Local-First Web Development" edited by Johannes Ernst et al. - Modern approaches to CRDTs, P2P, and local-first application development.
 
-Machine Learning:
+#### Machine Learning
 
-"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron (Practical introduction to ML)
+- "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron - Practical introduction to machine learning concepts and implementation.
 
-X. Systems Thinking & Complexity:
+### Systems Thinking & Complexity
 
-"Thinking in Systems: A Primer" by Donella H. Meadows (Understanding complex systems)
-"Systems Design for Advanced Beginners" by Robert Heaton (Practical guide to designing complex systems)
-"Release It!" by Michael T. Nygard (Designing and operating resilient systems)
+- "Thinking in Systems: A Primer" by Donella H. Meadows - Introduction to understanding and analyzing complex systems.
+- "Systems Design for Advanced Beginners" by Robert Heaton - Practical approaches to designing complex systems.
+- "Release It!" by Michael T. Nygard - Patterns and practices for designing and operating resilient systems.
 
-XI. Historical & Philosophical Perspectives:
+### Historical & Philosophical Perspectives
 
-"Coders at Work" by Peter Seibel (Interviews with influential programmers)
-"Hackers & Painters" by Paul Graham (Essays on programming and startups)
-"The Psychology of Computer Programming" by Gerald M. Weinberg (Insights into the human side of programming)
-"The Checklist Manifesto" by Atul Gawande (Using checklists to improve outcomes)
+- "Coders at Work" by Peter Seibel - In-depth interviews with influential programmers about their craft.
+- "Hackers & Painters" by Paul Graham - Essays exploring the intersection of programming, art, and entrepreneurship.
+- "The Psychology of Computer Programming" by Gerald M. Weinberg - Insights into the human aspects of software development.
+- "The Checklist Manifesto" by Atul Gawande - Using systematic approaches to improve outcomes in complex environments.
