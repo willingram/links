@@ -648,11 +648,6 @@ DuckDB Version 1 announcement: <https://duckdb.org/2024/06/03/announcing-duckdb-
 
 Jon's Excel Charts and Tutorials: <https://peltiertech.com/Excel/Charts/ChartIndex.html>
 
-## Books
-
-- <https://www.amazon.co.uk/Black-Box-Thinking-Surprising-Success/dp/1473613779>
-- <https://www.amazon.co.uk/Checklist-Manifesto-Things-Right-Gawande/dp/1846683149>
-
 ## Uncategorized
 
 List of personal portfolio sites (twitter threads): <https://x.com/pilcrowonpaper/status/1852245786723258468>
@@ -744,3 +739,133 @@ Quebec campers:
 - https://www.vr-evolution.ca/fr/
 - https://www.roulottehl.com/caravanes-portees
 - https://northern-lite.com/canadian-rv-dealers/
+
+## Books
+
+I. Front-End Development & UI/UX:
+
+JavaScript Ecosystem:
+
+"JavaScript: The Definitive Guide" by David Flanagan (Comprehensive reference)
+"You Don't Know JS" series by Kyle Simpson (Deep dive into core mechanisms)
+"Secrets of the JavaScript Ninja" by John Resig, Bear Bibeault, and Josip Maras (Advanced techniques and best practices)
+"Web Development with Node and Express" by Ethan Brown (Server-side JavaScript)
+"Learning React" by Alex Banks and Eve Porcello (Introduction to React)
+
+UI/UX Design & Principles:
+
+"Refactoring UI" by Adam Wathan and Steve Schoger (Practical UI design techniques)
+"Design for Developers" by Stephanie Rewis (Creating accessible UIs)
+"Don't Make Me Think, Revisited" by Steve Krug (Usability and intuitive design)
+"About Face: The Essentials of Interaction Design" by Alan Cooper (Comprehensive interaction design)
+"The Design of Everyday Things" by Don Norman (User-centered design principles)
+
+II. TypeScript & Type Systems:
+
+TypeScript:
+
+"Effective TypeScript" by Dan Vanderkam (Best practices and advanced features)
+"Programming TypeScript" by Boris Cherny (Type systems, tooling, and integration)
+"Advanced TypeScript 3 Programming Projects" by Peter Ohler (Conditional types, mapped types, type inference)
+
+Type Systems & Language Design:
+
+"Types and Programming Languages" by Benjamin C. Pierce (Theoretical foundations of type systems)
+"Programming Language Pragmatics" by Michael L. Scott (Language design and implementation)
+"Crafting Interpreters" by Robert Nystrom (Practical language implementation)
+
+III. Software Architecture & Design:
+
+General Principles:
+
+"A Philosophy of Software Design" by John Ousterhout (Emphasis on simplicity and clarity)
+"Clean Architecture" by Robert C. Martin (Maintainable, testable, and framework-independent design)
+"Refactoring: Improving the Design of Existing Code" by Martin Fowler (Classic on refactoring)
+"Understanding Software" by Max Kanat-Alexander (Philosophy of software development)
+"Software Design X-Rays" by Adam Tornhill (Technical debt and code quality analysis)
+
+Domain-Driven Design:
+
+"Domain-Driven Design: Tackling Complexity in the Heart of Software" by Eric Evans (Modeling business domains)
+
+Evolutionary Architecture:
+
+"Building Evolutionary Architectures" by Neal Ford, Rebecca Parsons, and Patrick Kua (Adapting to changing requirements)
+"Fundamentals of Software Architecture" by Neal Ford and Mark Richards (Comprehensive overview of architectural patterns)
+
+IV. Data & Databases:
+
+Database Variety:
+
+"Seven Databases in Seven Weeks" by Eric Redmond and Jim Wilson (Introduction to different database types)
+
+Data-Intensive Systems:
+
+"Designing Data-Intensive Applications" by Martin Kleppmann (Scalable and reliable data systems)
+
+Database Internals:
+
+"Database Internals" by Alex Petrov (Low-level understanding of database systems)
+
+V. Systems & Performance:
+
+Systems Performance:
+
+"Systems Performance: Enterprise and the Cloud" by Brendan Gregg (In-depth system-level performance analysis)
+
+Web Performance:
+
+"Web Performance in Action" by Jeremy Wagner (Front-end and back-end web performance)
+"High Performance Browser Networking" by Ilya Grigorik (Network protocols and optimization)
+
+VI. GraphQL:
+
+"Production-Ready GraphQL" by Marc-André Giroux (Best practices for GraphQL in production)
+
+VII. Team Dynamics, Culture, & Management:
+
+Team Organization & Management:
+
+"Team Topologies" by Matthew Skelton and Manuel Pais (Organizing teams for fast flow)
+"The Manager's Path" by Camille Fournier (Career guidance for engineers and managers)
+"An Elegant Puzzle: Systems of Engineering Management" by Will Larson (Engineering management principles)
+"Mythical Man-Month" by Frederick Brooks Jr. (Classic on software project management)
+
+Developer Culture & Philosophy:
+
+"The Pragmatic Programmer" (20th Anniversary Edition) by Dave Thomas and Andy Hunt (Wide-ranging advice for developers)
+"Clean Code" by Robert C. Martin (Writing clean, maintainable code)
+
+VIII. Design & Typography (Focused):
+
+Typography:
+
+"Thinking with Type" by Ellen Lupton (Comprehensive guide to typography)
+"The Elements of Typographic Style" by Robert Bringhurst (Detailed guide to typography)
+
+Grid Systems:
+
+"Grid Systems in Graphic Design" by Josef Müller-Brockmann (Principles of grid systems)
+
+IX. Emerging Trends:
+
+Local-First & Distributed Systems:
+
+"Local-First Web Development" edited by Johannes Ernst et al. (CRDTs, P2P, and the local-first movement)
+
+Machine Learning:
+
+"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron (Practical introduction to ML)
+
+X. Systems Thinking & Complexity:
+
+"Thinking in Systems: A Primer" by Donella H. Meadows (Understanding complex systems)
+"Systems Design for Advanced Beginners" by Robert Heaton (Practical guide to designing complex systems)
+"Release It!" by Michael T. Nygard (Designing and operating resilient systems)
+
+XI. Historical & Philosophical Perspectives:
+
+"Coders at Work" by Peter Seibel (Interviews with influential programmers)
+"Hackers & Painters" by Paul Graham (Essays on programming and startups)
+"The Psychology of Computer Programming" by Gerald M. Weinberg (Insights into the human side of programming)
+"The Checklist Manifesto" by Atul Gawande (Using checklists to improve outcomes)
