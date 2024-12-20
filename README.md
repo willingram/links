@@ -869,3 +869,116 @@ Quebec campers:
 - "Hackers & Painters" by Paul Graham - Essays exploring the intersection of programming, art, and entrepreneurship.
 - "The Psychology of Computer Programming" by Gerald M. Weinberg - Insights into the human aspects of software development.
 - "The Checklist Manifesto" by Atul Gawande - Using systematic approaches to improve outcomes in complex environments.
+
+## LLM-Suggested Links [Generated 20th December 2024]
+
+### Front-End Development & JavaScript Ecosystem
+
+#### Blogs and Websites
+
+- [CSS Tricks](https://css-tricks.com/) - Long-running web development resource recently acquired by DigitalOcean, known for comprehensive CSS guides and tutorials.
+- [Smashing Magazine](https://www.smashingmagazine.com/) - Premier publication for web design and development, featuring in-depth articles and industry best practices.
+- [A List Apart](https://alistapart.com/) - Pioneering web design publication exploring web standards and best practices since 1998.
+- [David Walsh Blog](https://davidwalsh.name/) - Mozilla developer advocate sharing tutorials and insights on modern web development.
+- [Addy Osmani](https://addyosmani.com/) - Engineering leader at Google Chrome, writing about JavaScript performance and web development.
+- [Jake Archibald](https://jakearchibald.com/) - Google Chrome developer advocate specializing in service workers and web performance.
+- Lydia Hallie - Known for creating visual explanations of complex JavaScript concepts.
+- [Tania Rascia](https://www.taniarascia.com/) - Developer and writer creating clear, concise tutorials for modern web development.
+- [Robin Wieruch](https://www.robinwieruch.de/) - Specialized in React.js tutorials and modern JavaScript practices.
+- [Barry Pollard](https://www.tunetheweb.com/blog/) - Web performance expert and author of "HTTP/2 in Action".
+
+#### Notable Articles
+
+- [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/) - Comprehensive explanation of React's useEffect hook by Dan Abramov.
+- [My Decade in Review](https://overreacted.io/my-decade-in-review/) - Personal journey through web development by Dan Abramov.
+- "The Web's Grain" by Frank Chimero - Influential essay on web design philosophy.
+- [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to) - Thought-provoking perspective on code maintenance.
+
+### TypeScript & Type Systems
+
+#### Blogs
+
+- [Matt Pocock's Blog](https://mattpocock.com/) - TypeScript wizard known for practical TypeScript tips and tutorials.
+- [Stefan Baumgartner's Blog](https://fettblog.eu/) - Deep dives into TypeScript and web development.
+- [Stephen Diehl's Blog](https://stephendiehl.com/) - Exploring programming language theory and type systems.
+- [Alexis King's Blog](https://lexi-lambda.github.io/) - Insights into functional programming and type theory.
+
+#### Resources
+
+- [Type-Level Programming in TypeScript](https://type-level-typescript.com/) - Advanced guide to TypeScript's type system.
+- TypeScript Weekly Newsletter - Curated TypeScript news and articles.
+
+### Software Architecture, Design Patterns, and Best Practices
+
+#### Blogs
+
+- [Martin Fowler's Bliki](https://martinfowler.com/bliki/) - Renowned software architect sharing insights on enterprise software design.
+- [Joel on Software](https://www.joelonsoftware.com/) - Classic software development blog by Stack Overflow co-founder.
+- [Dan Luu](https://danluu.com/) - Deep technical analyses of software systems.
+- [Nelson Elhage's Blog](https://nelhage.com/) - Systems engineering and software design insights.
+
+#### Key Resources
+
+- [The Twelve-Factor App](https://12factor.net/) - Methodology for building modern, scalable applications.
+- [Microservices](https://martinfowler.com/articles/microservices.html) - Definitive guide to microservice architecture by Martin Fowler.
+- [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy/) - Influential talk by Rich Hickey on software simplicity.
+- [The Architecture of Open Source Applications](http://aosabook.org/) - Case studies of real-world software architectures.
+
+### Databases and Data Handling
+
+- [PlanetScale Blog](https://planetscale.com/blog) - MySQL-compatible serverless database platform insights.
+- [Use The Index, Luke!](https://use-the-index-luke.com/) - SQL indexing and tuning tutorial.
+- [Postgres Guide](https://postgres.ai/blog/) - PostgreSQL best practices and optimization.
+- [Daniel Abadi's Blog](https://dbmsmusings.blogspot.com/) - Database internals and distributed systems.
+
+### Systems, Performance & Distributed Systems
+
+- [Brendan Gregg's Blog](http://www.brendangregg.com/) - Leading resource on systems performance.
+- [High Scalability](http://highscalability.com/) - Case studies of large-scale systems.
+- [Jepsen](https://jepsen.io/) - Distributed systems testing and analysis.
+- [Julia Evans' Blog](https://jvns.ca/) - Accessible explanations of complex systems concepts.
+- [The Morning Paper](https://blog.acolyer.org/) - Daily reviews of computer science research papers.
+- [Brandur's Blog](https://brandur.org/) - Systems engineering and API design.
+
+### Developer Culture and Philosophy
+
+- [Increment](https://increment.com/) - In-depth coverage of software engineering topics.
+- [Coding Horror](https://blog.codinghorror.com/) - Jeff Atwood's influential software development blog.
+- [Dev.to](https://dev.to/) - Community platform for programmers.
+- [The Pragmatic Engineer](https://blog.pragmaticengineer.com/) - Software engineering culture and systems.
+- [Charity Majors' Blog](https://charity.wtf/) - Engineering management and observability.
+- [The Old New Thing](https://devblogs.microsoft.com/oldnewthing/) - Raymond Chen's insights into Windows programming.
+- [Hillel Wayne's Blog](https://hillelwayne.com/) - Making formal methods accessible.
+- [Kyle Mitchell's Blog](https://writing.kemitchell.com/) - Software licensing and legal aspects.
+
+### Emerging Technologies
+
+#### Local-First Software
+
+- [Ink & Switch](https://www.inkandswitch.com/) - Research into local-first software and collaboration.
+- [Local-First Web Development](https://localfirstweb.dev/) - Resources for building offline-capable applications.
+
+#### AI and Machine Learning
+
+- [Hugging Face Blog](https://huggingface.co/blog) - Latest in ML models and tools.
+- [Distill](https://distill.pub/) - Clear explanations of machine learning concepts.
+- [Andrej Karpathy](https://karpathy.ai/) - AI research and implementation insights.
+- [Attention is All You Need](https://arxiv.org/abs/1706.03762) - Seminal paper introducing the Transformer architecture.
+
+### Design and Typography
+
+- [Typewolf](https://www.typewolf.com/) - Modern web typography inspiration.
+- [UX Collective](https://uxdesign.cc/) - User experience design publication.
+- [Frank Chimero](https://frankchimero.com/) - Design philosophy and web aesthetics.
+- [iA Blog](https://ia.net/blog) - Information architects on typography and digital design.
+- [Web Typography](https://webtypography.net/) - Applying classic typography principles to web design.
+- [Butterick's Practical Typography](https://practicaltypography.com/) - Comprehensive guide to typography.
+
+### Newsletters
+
+- [TLDR](https://tldr.tech/) - Tech news summarized daily.
+- [Bytes](https://bytes.dev/) - JavaScript news and insights.
+- [Changelog Weekly](https://changelog.com/weekly) - Open source and software development news.
+- [This Week in Rust](https://this-week-in-rust.org/) - Updates from the Rust ecosystem.
+- [JavaScript Weekly](https://javascriptweekly.com/) - Curated JavaScript news and articles.
+- [Console](https://console.dev/) - Weekly digest of the best developer tools.
