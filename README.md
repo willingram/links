@@ -869,6 +869,7 @@ Quebec campers:
 - "Hackers & Painters" by Paul Graham - Essays exploring the intersection of programming, art, and entrepreneurship.
 - "The Psychology of Computer Programming" by Gerald M. Weinberg - Insights into the human aspects of software development.
 - "The Checklist Manifesto" by Atul Gawande - Using systematic approaches to improve outcomes in complex environments.
+- "Structure and Interpretation of Computer Programs" by Harold Abelson and Gerald Jay Sussman - Seminal text exploring fundamental principles of programming and computation through the Scheme language.
 
 ## LLM-Suggested Links [Generated 20th December 2024]
 
