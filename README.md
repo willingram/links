@@ -61,6 +61,13 @@ Anthropic / Claude, Model Context Protocol ("The Model Context Protocol is an op
 - <https://www.anthropic.com/news/model-context-protocol>
 - <https://modelcontextprotocol.io/introduction>
 
+Tools, toolkits, SDKs:
+
+- https://lmstudio.ai/
+- https://sdk.vercel.ai/docs/introduction
+
+Matt Pocock's blog (some good stuff in here on how to piece together various building blocks): <https://www.aihero.dev/posts>
+
 ## Tools (TODO: Some might fit better in frontend/backend specific categories)
 
 Faster (?) cross-platform nvm: <https://github.com/Schniz/fnm>
