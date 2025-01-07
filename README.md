@@ -63,8 +63,12 @@ Anthropic / Claude, Model Context Protocol ("The Model Context Protocol is an op
 
 Tools, toolkits, SDKs:
 
-- https://lmstudio.ai/
+- https://lmstudio.ai/ ("Discover, download, and run local LLMs", see how to integrate with Vercel SDK here: <https://www.aihero.dev/use-local-models-with-vercel-ai-sdk>)
+- https://github.com/ollama/ollama
+- https://www.langchain.com/ ("LangChain is a composable framework to build with LLMs. LangGraph is the orchestration framework for controllable agentic workflows. Deploy your LLM applications at scale with LangGraph Platform, our infrastructure purpose-built for agents. Debug, collaborate, test, and monitor your LLM app in LangSmith - whether it's built with a LangChain framework or not.", probably lower level than I'm imagining)
 - https://sdk.vercel.ai/docs/introduction
+- https://www.litellm.ai/ ("LLM Gateway to provide model access, logging and usage tracking across 100+ LLMs. All in the OpenAI format.")
+- https://www.llamaindex.ai/ ("Build production agents that can find information, synthesize insights, generate reports, and take actions over the most complex enterprise data.")
 
 Matt Pocock's blog (some good stuff in here on how to piece together various building blocks): <https://www.aihero.dev/posts>
 
