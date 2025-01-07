@@ -471,12 +471,6 @@ Arguments against decorators:
 Technical dimensions of programming systems:
 <https://tomasp.net/techdims/>
 
-Zig (what Bun is written in) tutorial:
-<https://www.openmymind.net/learning_zig/>
-
-A newer (more betterer?) tutorial from https://x.com/PedroPark9:
-<https://pedropark99.github.io/zig-book/>
-
 The Language Server Protocol (TODO: better place for this link):
 <https://microsoft.github.io/language-server-protocol/>
 ^ linked from above, this TypeScript language definition tool:
@@ -484,6 +478,32 @@ The Language Server Protocol (TODO: better place for this link):
 
 LLVM Tutorial(s):
 <https://llvm.org/docs/tutorial/>
+
+### Zig
+
+Home: <https://ziglang.org/>
+
+Zig (what Bun is written in) tutorial:
+<https://www.openmymind.net/learning_zig/>
+
+A newer (more betterer?) tutorial from https://x.com/PedroPark9:
+<https://pedropark99.github.io/zig-book/>
+
+Mitchell Hashimoto's blogposts on zig: https://mitchellh.com/zig
+
+Zig-based SSG (used for Zig website): https://zine-ssg.io/
+
+SuperHTML LSP: https://kristoff.it/blog/first-html-lsp/
+
+Loris Cro's Blog (deep link to AoC in Zig, which has nice guidelines for getting started with Zig): https://kristoff.it/blog/advent-of-code-zig/
+
+Zig's "self-hosting on Hetzner" journey: https://ziglang.org/news/migrate-to-self-hosting/
+
+Projects:
+
+- https://bun.sh/
+- https://tigerbeetle.com/
+- https://ghostty.org/
 
 ## State Management
 
