@@ -387,6 +387,9 @@ The Rive app:
 Really simple + performant landing page for Planetscale (accessed 31/10/24):
 <https://planetscale.com/>
 
+Three.js ("Three.js is a cross-browser JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser using WebGL."): <https://threejs.org/>
+Course: <https://threejs-journey.com/>
+
 ### Viz
 
 <https://observablehq.com/>
