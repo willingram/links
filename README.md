@@ -36,6 +36,8 @@ From the Berkeley Graphics site listed in the "uncategorised" section:
 
 ## AI / LLM / Artifical Intelligence
 
+levelsio post, "how should I run deepseek r1": <https://x.com/levelsio/status/1882022483932684762>
+
 <https://github.com/AntonOsika/gpt-engineer>
 
 LLM tutorial:
@@ -99,8 +101,9 @@ Types vs. Interfaces:
 The TypeScript team's internal coding guidelines:
 <https://github.com/Microsoft/TypeScript/wiki/Coding-guidelines>
 
-React (with TypeScript) cheat sheet:
-<https://github.com/typescript-cheatsheets/react>
+React (with TypeScript) cheat sheet.
+^ Code: <https://github.com/typescript-cheatsheets/react>
+^ Deployed: <https://react-typescript-cheatsheet.netlify.app/>
 
 Free[ish] books:
 
@@ -424,6 +427,10 @@ CRDT talk ("Consistency without consensus in production systems" by Peter Bourgo
 <https://www.youtube.com/watch?v=em9zLzM8O7c>
 
 ## Backend
+
+### Process Managers
+
+pm2: <https://github.com/Unitech/pm2?tab=readme-ov-file>
 
 ### Architecture
 
