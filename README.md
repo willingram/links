@@ -302,7 +302,8 @@ The excellent shadcn (tailwind copy-paste "ui framework"): <https://ui.shadcn.co
 
 Origin UI ("Origin UI is an extensive collection of copy-and-paste components for quickly building app UIs. It‘s free, open-source, and ready to drop into your projects."): <https://originui.com/>
 
-Devon's (Parcel) React Aria ("Over 40 components with built-in behavior, adaptive interactions, top-tier accessibility, and internationalization out of the box, ready for your styles."): <https://react-spectrum.adobe.com/react-aria/>
+Devon's (Parcel) React Aria ("Over 40 components with built-in behavior, adaptive interactions, top-tier accessibility, and internationalization out of the box, ready for your styles."):
+<https://react-spectrum.adobe.com/react-aria/>
 
 Senior DX engineer @ Vercel, very impressive CSS-fu:
 <https://x.com/jh3yy>
