@@ -544,6 +544,9 @@ So, my current prediction (don't take it seriously yet as we don't know) are:
 - valtio will be less attractive, but we'll try our best
 ```
 
+More from @dai_shi on the nature of Zustand / Jotai / Valtio:
+<https://blog.axlight.com/posts/thoughts-on-state-management-libraries-in-the-react-compiler-era/>
+
 XState and related:
 
 - <https://stately.ai/>
