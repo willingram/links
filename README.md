@@ -307,6 +307,9 @@ Devon's (Parcel) React Aria ("Over 40 components with built-in behavior, adaptiv
 Senior DX engineer @ Vercel, very impressive CSS-fu:
 <https://x.com/jh3yy>
 
+cmdk component (command menu):
+<https://github.com/pacocoursey/cmdk>
+
 Chrome CSS 2023 updates:
 [unread] <https://developer.chrome.com/blog/whats-new-css-ui-2023/>
 
