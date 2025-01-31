@@ -367,6 +367,15 @@ Beauty emerges automatically without deliberation.
 Do not infantilize users.
 ```
 
+new.css (A classless CSS framework to write modern websites using only HTML. It weighs 4.8kb.): <https://github.com/xz/new.css>
+
+> All it does is set some sensible defaults and styles your HTML to look reasonable. It's perfect for:
+> 
+> - A dead-simple blog
+> - Collecting your most used links
+> - Making a simple "about me" site
+> - Rendering markdown-generated HTML
+
 Figma Dev: <https://www.figma.com/blog/introducing-dev-mode/>
 
 Cool illustrated guide to DOM events: <Lhttps://domevents.dev/>
@@ -684,6 +693,8 @@ My full spec for the challenge:
 [https://replicache.dev/](https://replicache.dev/)
 
 [https://zerosync.dev/](https://zerosync.dev/) (from Replicache devs, replacing [Reflect](https://reflect.net/))
+
+Instand DB ("Instant is a modern Firebase. We make you productive by giving your frontend a real-time database."): <https://www.instantdb.com/>
 
 ## Data Analytics
 
