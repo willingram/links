@@ -63,6 +63,10 @@ Anthropic / Claude, Model Context Protocol ("The Model Context Protocol is an op
 - <https://www.anthropic.com/news/model-context-protocol>
 - <https://modelcontextprotocol.io/introduction>
 
+Code assistant links:
+
+- Supabase prompts: <https://github.com/supabase/supabase/tree/master/examples/prompts>
+
 Tools, toolkits, SDKs:
 
 - https://lmstudio.ai/ ("Discover, download, and run local LLMs", see how to integrate with Vercel SDK here: <https://www.aihero.dev/use-local-models-with-vercel-ai-sdk>)
@@ -73,6 +77,10 @@ Tools, toolkits, SDKs:
 - https://www.llamaindex.ai/ ("Build production agents that can find information, synthesize insights, generate reports, and take actions over the most complex enterprise data.")
 
 Matt Pocock's blog (some good stuff in here on how to piece together various building blocks): <https://www.aihero.dev/posts>
+
+Example applications:
+- in-browser image to ASCII: <https://textify.zayynha.com/>
+- (also) in-browser image to ASCII: <https://yeaag.seated.ro/>
 
 ## Tools (TODO: Some might fit better in frontend/backend specific categories)
 
@@ -388,6 +396,11 @@ Color space design (Oklab): <https://bottosson.github.io/posts/oklab/>
 
 "This paper presents an introduction to the color pipelines behind modern feature-film visual-effects and animation": <https://cinematiccolor.org/>
 
+Color palettes:
+
+- https://coolors.co/
+- https://colorhunt.co/
+
 Monospace design experiment: <https://owickstrom.github.io/the-monospace-web/>
 
 The "GPU handbook" (also an interesting design experiment): <https://modal.com/gpu-glossary>
@@ -421,6 +434,9 @@ Enzo type-checking library:
 
 Choose "boring" technology (TODO: move this to "philosophy"-esque section):
 <https://boringtechnology.club/>
+
+"Visualize JSON into interactive graphs":
+<https://jsoncrack.com/>
 
 ### Multiplayer / CRDT / Live Collab
 
