@@ -81,6 +81,7 @@ Matt Pocock's blog (some good stuff in here on how to piece together various bui
 Example applications:
 - in-browser image to ASCII: <https://textify.zayynha.com/>
 - (also) in-browser image to ASCII: <https://yeaag.seated.ro/>
+- high performance (intended to be, anyway) UI for doing LLM tasks: <https://uncovr.app/>
 
 ## Tools (TODO: Some might fit better in frontend/backend specific categories)
 
@@ -215,7 +216,7 @@ Devon's video on history of bundlers ("Bundling Past, Present, and Future"): <ht
 
 ## Frontend
 
-### Performance
+### Performance (Frontend Specific)
 
 Chrome project to work w/ React frameworks to improve performance / UX:
 <https://developer.chrome.com/blog/aurora-update-2023/>
@@ -437,6 +438,10 @@ Choose "boring" technology (TODO: move this to "philosophy"-esque section):
 
 "Visualize JSON into interactive graphs":
 <https://jsoncrack.com/>
+
+Computer, Enhance! ("Casey Muratori's "Computer, Enhance!" offers in-depth, beginner-friendly programming articles and interviews for $9/month or $350/year."):
+- https://www.computerenhance.com/about
+- https://www.computerenhance.com/p/table-of-contents
 
 ### Multiplayer / CRDT / Live Collab
 
@@ -816,6 +821,17 @@ Quebec campers:
 - https://northern-lite.com/canadian-rv-dealers/
 
 ## Books
+
+### Recommendations (lists from other people)
+
+@zack_overflow (Bun engineer) list from https://x.com/zack_overflow/status/1888719048902664273:
+
+- [Crafting Interpreters](https://timothya.com/pdfs/crafting-interpreters.pdf) (Thorsten Ball): A practical guide to building interpreters and compilers, covering both tree-walking and bytecode approaches.
+- [Compilers: Principles, Techniques, and Tools](https://repository.unikom.ac.id/48769/1/Compilers%20-%20Principles,%20Techniques,%20and%20Tools%20(2006).pdf) (Aho, Lam, Sethi, Ullman) (The Dragon Book): A classic and comprehensive textbook on compiler design, covering all aspects from lexical analysis to code optimization.
+- [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) (Harold Abelson, Gerald Jay Sussman, Julie Sussman) (SICP): A foundational computer science text that teaches programming using Scheme, emphasizing abstraction and program design.
+- [Computer Systems: A Programmer's Perspective](https://www.cs.sfu.ca/~ashriram/Courses/CS295/assets/books/CSAPP_2016.pdf) (Randal E. Bryant, David R. O'Hallaron) (CS:APP): A comprehensive study of computer systems from a programmer's viewpoint, covering topics like data representation, memory management, and concurrency.
+- [Types and Programming Languages](https://www.cs.sjtu.edu.cn/~kzhu/cs383/Pierce_Types_Programming_Languages.pdf) (Benjamin C. Pierce) (TAPL): A rigorous introduction to type theory and its applications in programming language design.
+- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) (Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau) (OSTEP): A freely available online book that provides a clear and practical introduction to operating system concepts.
 
 ### Front-End Development & UI/UX
 
