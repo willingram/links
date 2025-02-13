@@ -296,6 +296,17 @@ React 19: <https://react.dev/blog/2024/12/05/react-19>
 
 ### UI, Design, and CSS
 
+List of well-designed websites (as judged by https://x.com/MarkKnd/status/1889996853175026063), heavy on monochrome:
+
+- https://www.michael.fm/
+- https://www.bylenni.com/
+- https://logotype.org/
+- https://ch.sh/
+- https://aesso.com/
+- https://www.whirrls.com/
+- https://attio.com/
+- https://tiny.supply/
+
 Font stacks ("The fastest fonts available. No downloading, no layout shifts, no flashes — just instant renders."):
  
  - <https://github.com/system-fonts/modern-font-stacks>
