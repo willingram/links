@@ -447,6 +447,10 @@ Enzo type-checking library:
 Choose "boring" technology (TODO: move this to "philosophy"-esque section):
 <https://boringtechnology.club/>
 
+A "craft in the age of AI" presentation and article ("Config 2025: Crafting quality that endures (Karri Saarinen, Co-founder & CEO, Linear) | Figma"):
+<https://linear.app/blog/why-is-quality-so-rare>
+<https://www.youtube.com/watch?v=pCil7YNhNCU>
+
 "Visualize JSON into interactive graphs":
 <https://jsoncrack.com/>
 
